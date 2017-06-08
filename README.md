@@ -16,6 +16,8 @@ Below are the mods that are installed so far
 - AppleCore
 - Applied Energistics 2
 - Baubles
+- BaublesHud
+- Baubles Stuff
 - Bibliocraft
 - Bibliowoods Biomes O' Plenty
 - Bibliowoods Forestry
