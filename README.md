@@ -36,6 +36,7 @@ Below are the mods that are installed so far
 - Dense Ores
 - Dimensional Anchors
 - DummyCore
+- Elemental Witches
 - EnderCore
 - EnderIO
 - Ender Storage
