@@ -21,8 +21,13 @@ Below are the mods that are installed so far
 - Bibliowoods Forestry
 - Bibliowoods Natura
 - Big Reactors
+- Binnie Mods
+- Binnie Patcher
 - Biomes O' Plenty
 - BuildCraft
+- Carpenters' Blocks
+- Chisel
+- Chisel facades
 - CodeChicken Core
 - CodeChicken Lib
 - CoFH Core
@@ -48,6 +53,7 @@ Below are the mods that are installed so far
 - JABBA
 - Journeymap
 - Logistics Pipes
+- Magic Bees
 - Malisis Core
 - Masisis Doors
 - Mantle
@@ -58,8 +64,10 @@ Below are the mods that are installed so far
 - Morpheus
 - Mutant Creatures
 - Natura
+- NEI Addons
 - Nether Ores
 - Not Enough Items (NEI)
+- Not Enough Resources
 - OpenBlocks
 - OpenModsLib
 - Pam's Harvestcraft
