@@ -27,6 +27,7 @@ Below are the mods that are installed so far
 - Binnie Patcher
 - Biomes O' Plenty
 - BoP Tweaks
+- Botania
 - BuildCraft
 - Carpenters' Blocks
 - Chisel
@@ -36,6 +37,8 @@ Below are the mods that are installed so far
 - CoFH Core
 - Dense Ores
 - Dimensional Anchors
+- DummyCore
+- Elemental Witches
 - EnderCore
 - EnderIO
 - Ender Storage
@@ -77,6 +80,7 @@ Below are the mods that are installed so far
 - OpenModsLib
 - Pam's Harvestcraft
 - Redstone Aresenal
+- Reliquary
 - RFTools
 - Runic Dungeons
 - SecurityCraft
@@ -92,6 +96,7 @@ Below are the mods that are installed so far
 - Thaumcraft
 - Thaumcraft Mob Aspects
 - Thaumcraft NEI plugin
+- Thaumic Bases
 - Thaumic Energistics
 - Thaumic Exploration
 - Thaumic Tinkerer
