@@ -76,6 +76,7 @@ Below are the mods that are installed so far
 - OpenBlocks
 - OpenModsLib
 - Pam's Harvestcraft
+- Reliquary
 - RFTools
 - Runic Dungeons
 - SecurityCraft
