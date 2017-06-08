@@ -34,6 +34,7 @@ Below are the mods that are installed so far
 - CoFH Core
 - Dense Ores
 - Dimensional Anchors
+- DummyCore
 - EnderCore
 - EnderIO
 - Ender Storage
@@ -89,6 +90,7 @@ Below are the mods that are installed so far
 - Thaumcraft
 - Thaumcraft Mob Aspects
 - Thaumcraft NEI plugin
+- Thaumic Bases
 - Thaumic Energistics
 - Thaumic Exploration
 - Thaumic Tinkerer
