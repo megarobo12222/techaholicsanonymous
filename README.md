@@ -14,17 +14,17 @@ Below are the mods that are installed so far
 - AnimationAPI
 - AOBD
 - AppleCore
-- Applied Energistics 2  [up-to-date]
+- Applied Energistics 2
 - Baubles
 - Big Reactors
 - Biomes O' Plenty
-- BuildCraft [up-to-date]
+- BuildCraft
 - CodeChicken Core
 - CodeChicken Lib
-- CoFH Core [up-to-date]
+- CoFH Core
 - Dense Ores
 - Dimensional Anchors
-- EnderIO  [up-to-date]
+- EnderIO
 - Ender Storage
 - Extra Cells
 - Extra TiC
@@ -59,7 +59,7 @@ Below are the mods that are installed so far
 - Pam's Harvestcraft
 - RFTools
 - Runic Dungeons
-- SecurityCraft [up-to-date]
+- SecurityCraft
 - SimplyJetpacks
 - SpecialMobs
 - Spice Of Life
@@ -67,13 +67,13 @@ Below are the mods that are installed so far
 - Tinkers' Construct
 - Thaumcraft
 - Thaumcraft Mob Aspects
-- Thaumic Energistics [up-to-date]
+- Thaumic Energistics
 - Thaumic Exploration
 - Thaumic Tinkerer
-- Thermal Dynamics [up-to-date]
-- Thermal Expansion [up-to-date]
-- Thermal Foundation [up-to-date]
-- Thermal Recycling [up-to-date]
+- Thermal Dynamics
+- Thermal Expansion
+- Thermal Foundation
+- Thermal Recycling
 - TiC Tooltips
 - Twilight Forest
 - WAILA
