@@ -25,6 +25,7 @@ Below are the mods that are installed so far
 - Binnie Patcher
 - Biomes O' Plenty
 - BoP Tweaks
+- Botania
 - BuildCraft
 - Carpenters' Blocks
 - Chisel
