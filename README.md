@@ -77,6 +77,7 @@ Below are the mods that are installed so far
 - Tinkers' Construct
 - Thaumcraft
 - Thaumcraft Mob Aspects
+- Thaumcraft NEI plugin
 - Thaumic Energistics
 - Thaumic Exploration
 - Thaumic Tinkerer
