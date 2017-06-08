@@ -24,6 +24,7 @@ Below are the mods that are installed so far
 - Binnie Mods
 - Binnie Patcher
 - Biomes O' Plenty
+- BoP Tweaks
 - BuildCraft
 - Carpenters' Blocks
 - Chisel
@@ -42,6 +43,7 @@ Below are the mods that are installed so far
 - FastCraft
 - Forbidden Magic
 - Forestry
+- Gendustry
 - ThaumicNEI
 - Iguanas Tinker Tweaks
 - Immersive Engineering
@@ -59,6 +61,7 @@ Below are the mods that are installed so far
 - Mantle
 - MCJtylib
 - Metallurgy
+- Metallurgy Chisel
 - Metallurgy Core
 - Minefactory Reloaded
 - Morpheus
