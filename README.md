@@ -16,6 +16,10 @@ Below are the mods that are installed so far
 - AppleCore
 - Applied Energistics 2
 - Baubles
+- Bibliocraft
+- Bibliowoods Biomes O' Plenty
+- Bibliowoods Forestry
+- Bibliowoods Natura
 - Big Reactors
 - Biomes O' Plenty
 - BuildCraft
@@ -24,6 +28,7 @@ Below are the mods that are installed so far
 - CoFH Core
 - Dense Ores
 - Dimensional Anchors
+- EnderCore
 - EnderIO
 - Ender Storage
 - Extra Cells
@@ -52,6 +57,7 @@ Below are the mods that are installed so far
 - Minefactory Reloaded
 - Morpheus
 - Mutant Creatures
+- Natura
 - Nether Ores
 - Not Enough Items (NEI)
 - OpenBlocks
@@ -64,6 +70,10 @@ Below are the mods that are installed so far
 - SpecialMobs
 - Spice Of Life
 - Storage Drawers
+- Storage Drawers Biomes O' Plenty pack
+- Storage Drawers Forestry pack
+- Storage Drawers Misc pack
+- Storage Drawers Natura pack
 - Tinkers' Construct
 - Thaumcraft
 - Thaumcraft Mob Aspects
