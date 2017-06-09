@@ -92,6 +92,7 @@ Below are the mods that are installed so far
 - Storage Drawers Forestry pack
 - Storage Drawers Misc pack
 - Storage Drawers Natura pack
+- Tainted Magic
 - Tinkers' Construct
 - Thaumcraft
 - Thaumcraft Mob Aspects
@@ -105,7 +106,11 @@ Below are the mods that are installed so far
 - Thermal Foundation
 - Thermal Recycling
 - TiC Tooltips
+- Traveller's Gear
 - Twilight Forest
 - WAILA
 - WAILA Harvestability
 - WAWLA
+- Witchery
+- Witchery Patch
+- Witching Gadgets
