@@ -10,11 +10,14 @@ Installed mods
 Below are the mods that are installed so far
 
 - Additional Compression
+- Advanced Thaumaturgy 2
+- AgriCraft
 - AnimalsPlus
 - AnimationAPI
 - AOBD
 - AppleCore
 - Applied Energistics 2
+- Aqua Culture [Issue]
 - Baubles
 - Bibliocraft
 - Bibliowoods Biomes O' Plenty
@@ -26,6 +29,7 @@ Below are the mods that are installed so far
 - Biomes O' Plenty
 - BoP Tweaks
 - Botania
+- Botanical Addons
 - BuildCraft
 - Carpenters' Blocks
 - Chisel
