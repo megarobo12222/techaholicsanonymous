@@ -102,7 +102,11 @@ Below are the mods that are installed so far
 - Thermal Foundation
 - Thermal Recycling
 - TiC Tooltips
+- Traveller's Gear
 - Twilight Forest
 - WAILA
 - WAILA Harvestability
 - WAWLA
+- Witchery
+- Witchery Patch
+- Witching Gadgets
