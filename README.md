@@ -17,7 +17,7 @@ Below are the mods that are installed so far
 - AOBD
 - AppleCore
 - Applied Energistics 2
-- Aqua Culture [Issue]
+- Aqua Culture
 - Baubles
 - Bibliocraft
 - Bibliowoods Biomes O' Plenty
@@ -50,7 +50,7 @@ Below are the mods that are installed so far
 - FastCraft
 - Forbidden Magic
 - Forestry
-- Gadomancy [Issue]
+- Gadomancy
 - Gendustry
 - Hardcore Wither
 - ThaumicNEI
@@ -107,7 +107,7 @@ Below are the mods that are installed so far
 - Thermal Dynamics
 - Thermal Expansion
 - Thermal Foundation
-- Thermal Recycling [issue]
+- Thermal Recycling
 - TiC Tooltips
 - Traveller's Gear
 - Twilight Forest
