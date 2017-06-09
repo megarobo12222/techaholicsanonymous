@@ -50,6 +50,7 @@ Below are the mods that are installed so far
 - FastCraft
 - Forbidden Magic
 - Forestry
+- Gadomancy [Issue]
 - Gendustry
 - ThaumicNEI
 - Iguanas Tinker Tweaks
@@ -105,7 +106,7 @@ Below are the mods that are installed so far
 - Thermal Dynamics
 - Thermal Expansion
 - Thermal Foundation
-- Thermal Recycling
+- Thermal Recycling [issue]
 - TiC Tooltips
 - Traveller's Gear
 - Twilight Forest
