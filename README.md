@@ -52,6 +52,7 @@ Below are the mods that are installed so far
 - Forestry
 - Gadomancy [Issue]
 - Gendustry
+- Hardcore Wither
 - ThaumicNEI
 - Iguanas Tinker Tweaks
 - Immersive Engineering
