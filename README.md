@@ -10,11 +10,14 @@ Installed mods
 Below are the mods that are installed so far
 
 - Additional Compression
+- Advanced Thaumaturgy 2
+- AgriCraft
 - AnimalsPlus
 - AnimationAPI
 - AOBD
 - AppleCore
 - Applied Energistics 2
+- Aqua Culture
 - Baubles
 - BaublesHud
 - Baubles Stuff
@@ -28,6 +31,7 @@ Below are the mods that are installed so far
 - Biomes O' Plenty
 - BoP Tweaks
 - Botania
+- Botanical Addons
 - BuildCraft
 - Carpenters' Blocks
 - Chisel
@@ -48,7 +52,9 @@ Below are the mods that are installed so far
 - FastCraft
 - Forbidden Magic
 - Forestry
+- Gadomancy
 - Gendustry
+- Hardcore Wither
 - ThaumicNEI
 - Iguanas Tinker Tweaks
 - Immersive Engineering
