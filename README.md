@@ -114,6 +114,7 @@ Below are the mods that are installed so far
 - TiC Tooltips
 - Traveller's Gear
 - Twilight Forest
+- UniDict
 - WAILA
 - WAILA Harvestability
 - WAWLA
