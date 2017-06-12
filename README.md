@@ -56,6 +56,7 @@ Below are the mods that are installed so far
 - ThaumicNEI
 - Iguanas Tinker Tweaks
 - Immersive Engineering
+- Immersive Integration
 - Immibis Core
 - IndustrialCraft 2
 - Inventory Tweaks
