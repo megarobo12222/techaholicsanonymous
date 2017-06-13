@@ -11,6 +11,7 @@ Below are the mods that are installed so far
 
 - Additional Compression
 - Advanced Thaumaturgy 2
+- AE2 Stuff
 - AgriCraft
 - AnimalsPlus
 - AnimationAPI
@@ -71,9 +72,13 @@ Below are the mods that are installed so far
 - Masisis Doors
 - Mantle
 - MCJtylib
+- Mekanism
+- Mekanism Generators
+- Mekanism Tools
 - Metallurgy
 - Metallurgy Chisel
 - Metallurgy Core
+- Minechem
 - Minefactory Reloaded
 - Morpheus
 - Mutant Creatures
@@ -90,6 +95,7 @@ Below are the mods that are installed so far
 - Runic Dungeons
 - SecurityCraft
 - SimplyJetpacks
+- Sodiumcraft
 - SpecialMobs
 - Spice Of Life
 - Storage Drawers
