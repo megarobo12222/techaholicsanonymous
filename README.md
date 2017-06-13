@@ -33,6 +33,7 @@ Below are the mods that are installed so far
 - Botanical Addons
 - BuildCraft
 - Carpenters' Blocks
+- Cave Control
 - Chisel
 - Chisel facades
 - CodeChicken Core
@@ -40,6 +41,7 @@ Below are the mods that are installed so far
 - CoFH Core
 - Dense Ores
 - Dimensional Anchors
+- DragonAPI
 - DummyCore
 - Elemental Witches
 - EnderCore
