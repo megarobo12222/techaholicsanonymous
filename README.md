@@ -54,10 +54,12 @@ Below are the mods that are installed so far
 - Forestry
 - Gadomancy
 - Gendustry
+- Growthcraft Community Edtion
 - Hardcore Wither
 - ThaumicNEI
 - Iguanas Tinker Tweaks
 - Immersive Engineering
+- Immersive Integration
 - Immibis Core
 - IndustrialCraft 2
 - Inventory Tweaks
