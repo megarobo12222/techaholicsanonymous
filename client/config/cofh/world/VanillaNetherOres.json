@@ -1,0 +1,239 @@
+{
+
+	"Nether Coal Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "NetherOres:tile.netherores.ore.0", 
+                "weight": 85
+            },
+			{
+                "name": "minecraft:coal_block",
+                "weight": 5
+			},
+			{
+                "name": "denseores:block5",
+				"metadata": 1,
+                "weight": 10
+			}
+			],
+		"material": "minecraft:netherrack",
+        "clusterSize": 12,
+        "numClusters": 3,
+        "minHeight": 64,
+        "maxHeight": 122,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           -1
+        ]
+    },
+	
+	"Nether Diamond Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "NetherOres:tile.netherores.ore.0", 
+				"metadata": 1,
+                "weight": 85
+            },
+			{
+                "name": "minecraft:diamond_block",
+                "weight": 5
+			},
+			{
+                "name": "denseores:block5",
+				"metadata": 2,
+                "weight": 10
+			}
+			],
+		"material": "minecraft:netherrack",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "minHeight": 27,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	
+	"Nether Gold Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "NetherOres:tile.netherores.ore.0", 
+				"metadata": 2,
+                "weight": 85
+            },
+			{
+                "name": "minecraft:gold_block",
+                "weight": 5
+			},
+			{
+                "name": "denseores:block5",
+				"metadata": 3,
+                "weight": 10
+			}
+			],
+		"material": "minecraft:netherrack",
+        "clusterSize": 11,
+        "numClusters": 2,
+        "minHeight": 27,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	
+	"Nether Iron Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "NetherOres:tile.netherores.ore.0", 
+				"metadata": 3,
+                "weight": 85
+            },
+			{
+                "name": "minecraft:iron_block",
+                "weight": 5
+			},
+			{
+                "name": "denseores:block5",
+				"metadata": 4,
+                "weight": 10
+			}
+			],
+		"material": "minecraft:netherrack",
+        "clusterSize": 11,
+        "numClusters": 3,
+        "minHeight": 64,
+        "maxHeight": 122,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	
+	"Nether Lapis Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "NetherOres:tile.netherores.ore.0", 
+				"metadata": 4,
+                "weight": 85
+            },
+			{
+                "name": "minecraft:lapis_block",
+                "weight": 5
+			},
+			{
+                "name": "denseores:block5",
+				"metadata": 5,
+                "weight": 10
+			}
+			],
+		"material": "minecraft:netherrack",
+        "clusterSize": 11,
+        "numClusters": 1,
+        "minHeight": 64,
+        "maxHeight": 122,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	
+	"Nether Redstone Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "NetherOres:tile.netherores.ore.0", 
+				"metadata": 5,
+                "weight": 85
+            },
+			{
+                "name": "minecraft:redstone_block",
+                "weight": 5
+			},
+			{
+                "name": "denseores:block5",
+				"metadata": 6,
+                "weight": 10
+			}
+			],
+		"material": "minecraft:netherrack",
+        "clusterSize": 11,
+        "numClusters": 1,
+        "minHeight": 64,
+        "maxHeight": 122,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	
+	"Nether Emerald Ore": {
+        "template": "uniform",
+        "block": [
+			{
+                "name": "NetherOres:tile.netherores.ore.0",
+                "metadata": 8,				
+                "weight": 85
+            },
+			{
+                "name": "minecraft:emerald_block",		
+                "weight": 5
+            },
+			{
+                "name": "denseores:block5",
+				"metadata": 7,
+                "weight": 10
+			}
+			],
+		"material": "minecraft:netherrack",
+        "clusterSize": 10,
+        "numClusters": 8,
+        "minHeight": 27,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    }
+}	

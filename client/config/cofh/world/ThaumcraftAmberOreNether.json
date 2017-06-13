@@ -1,0 +1,32 @@
+{
+
+	"Nether Amber Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "NetherOres:tile.netherores.ore.1",
+                "metadata": 11,				
+                "weight": 85
+            },
+			{
+                "name": "denseores:block6",
+				"metadata": 8,
+                "weight": 10
+			}
+			],
+		"material": "minecraft:netherrack",
+        "clusterSize": 10,
+        "numClusters": 8,
+        "minHeight": 64,
+        "maxHeight": 122,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    }
+}	

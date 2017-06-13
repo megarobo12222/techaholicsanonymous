@@ -1,0 +1,36 @@
+{
+ 
+	"Nether Pig Iron Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "NetherOres:tile.netherores.ore.1",
+                "metadata": 2,				
+                "weight": 85
+            },
+			{
+                "name": "TConstruct:MetalBlock",
+				"metadata": 9,				
+                "weight": 5
+			},
+			{
+                "name": "denseores:block6",
+                "weight": 10
+			}
+			],
+		"material": "minecraft:netherrack",
+        "clusterSize": 10,
+        "numClusters": 8,
+        "minHeight": 27,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    }
+}	
