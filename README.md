@@ -39,6 +39,7 @@ Below are the mods that are installed so far
 - CodeChicken Core
 - CodeChicken Lib
 - CoFH Core
+- Decocraft
 - Dense Ores
 - Dimensional Anchors
 - DragonAPI
@@ -83,6 +84,7 @@ Below are the mods that are installed so far
 - Minechem
 - Minefactory Reloaded
 - Morpheus
+- MrCrafish's Furniture Mod
 - Mutant Creatures
 - Natura
 - NEI Addons
@@ -92,6 +94,7 @@ Below are the mods that are installed so far
 - OpenBlocks
 - OpenModsLib
 - Pam's Harvestcraft
+- Project Red
 - Reliquary
 - RFTools
 - Runic Dungeons
