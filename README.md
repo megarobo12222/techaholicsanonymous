@@ -103,6 +103,8 @@ Below are the mods that are installed so far
 - Sodiumcraft
 - SpecialMobs
 - Spice Of Life
+- Steve's Addon
+- Steve's Factory Manager
 - Storage Drawers
 - Storage Drawers Biomes O' Plenty pack
 - Storage Drawers Forestry pack
