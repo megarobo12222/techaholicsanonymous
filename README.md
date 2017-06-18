@@ -99,6 +99,8 @@ Below are the mods that are installed so far
 - OpenModsLib
 - Pam's Harvestcraft
 - Project Red
+- Railcraft
+- Railcraft Cosmetics
 - Reliquary
 - RFTools
 - Runic Dungeons
