@@ -65,6 +65,7 @@ Below are the mods that are installed so far
 - Immersive Integration
 - Immibis Core
 - IndustrialCraft 2
+- IC2 Nuclear Control
 - Inventory Tweaks
 - IronBackpacks
 - Ironchest
