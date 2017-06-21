@@ -1,0 +1,233 @@
+{
+   "Metallurgy Sulfur Ore": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "Metallurgy:utility.ore",
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:utility.block",
+                "weight": 5
+            },
+			{
+                "name": "denseores:block4",
+				"metadata": 14,
+                "weight": 10
+			}
+        ],
+        "material": [
+			{   
+                "name": "minecraft:stone"
+            }
+		],	
+        "clusterSize": 6,
+        "numClusters": 4,
+        "minHeight": 5,
+        "maxHeight": 20,
+	    "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+              -1,
+            1,
+			-100
+        ]
+    },
+	
+	  "Phosphorite Ore": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "Metallurgy:utility.ore",
+				"metadata": 1,
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:utility.block",
+				"metadata": 1,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block4",
+				"metadata": 15,
+                "weight": 10
+			}
+        ],
+        "material": [
+			{   
+                "name": "minecraft:stone"
+            }
+		],	
+        "clusterSize": 7,
+        "numClusters": 4,
+        "minHeight": 85,
+        "maxHeight": 135,
+	    "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+              -1,
+            1,
+			-100
+        ]
+    },
+	
+   "Metallurgy Saltpeter Ore": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "Metallurgy:utility.ore",
+				"metadata": 2,
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:utility.block",
+				"metadata": 2,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block4",
+				"metadata": 0,
+                "weight": 10
+			}
+        ],
+        "material": [
+			{   
+                "name": "minecraft:stone"
+            }
+		],	
+        "clusterSize": 8,
+        "numClusters": 2,
+        "minHeight": 10,
+        "maxHeight": 128,
+	    "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+              -1,
+            1,
+			-100
+        ]
+	},
+	
+	 "Magnesium Ore": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "Metallurgy:utility.ore",
+				"metadata": 3,
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:utility.block",
+				"metadata": 3,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block4",
+				"metadata": 1,
+                "weight": 10
+			}
+        ],
+        "material": [
+			{   
+                "name": "minecraft:stone"
+            }
+		],	
+        "clusterSize": 9,
+        "numClusters": 2,
+        "minHeight": 105,
+        "maxHeight": 150,
+	    "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+              -1,
+            1,
+			-100
+        ]
+	},
+
+   "Bitumen Ore": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "Metallurgy:utility.ore",
+				"metadata": 4,
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:utility.block",
+				"metadata": 4,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block4",
+				"metadata": 2,
+                "weight": 10
+			}
+        ],
+        "material": [
+			{   
+                "name": "minecraft:stone"
+            }
+		],	
+        "clusterSize": 7,
+        "numClusters": 3,
+        "minHeight": 105,
+        "maxHeight": 250,
+	    "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+              -1,
+            1,
+			-100
+        ]
+	},
+	
+   "Potash Ore": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "Metallurgy:utility.ore",
+				"metadata": 5,
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:utility.block",
+				"metadata": 5,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block4",
+				"metadata": 3,
+                "weight": 10
+			}
+        ],
+        "material": [
+			{   
+                "name": "minecraft:stone"
+            }
+		],	
+        "clusterSize": 10,
+        "numClusters": 1,
+        "minHeight": 105,
+        "maxHeight": 150,
+	    "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+              -1,
+            1,
+			-100
+        ]
+	}
+}	

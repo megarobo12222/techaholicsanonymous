@@ -1,0 +1,34 @@
+{
+ 
+   "Osmium Ore": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "Mekanism:OreBlock",
+                "weight": 85
+			},
+			 {
+                "name": "Mekanism:BasicBlock",
+                "weight": 5
+            }
+        ],
+        "material": [
+			{   
+                "name": "minecraft:stone"
+            }
+		],	
+        "clusterSize": 8,
+        "numClusters": 3,
+        "minHeight": 60,
+        "maxHeight": 256,
+	    "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+              -1,
+            1,
+			-100
+        ]
+    }
+}

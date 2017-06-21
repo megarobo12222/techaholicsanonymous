@@ -1,0 +1,40 @@
+ {
+ 
+   "Yellorite Ore": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "BigReactors:BRMetalBlock",
+                "weight": 5
+			},
+			 {
+                "name": "BigReactors:YelloriteOre",
+                "weight": 85
+            },
+			{
+                "name": "denseores:block0",
+				"metadata": 9,
+                "weight": 10
+			}
+        ],
+        "material": [
+			{   
+                "name": "minecraft:stone"
+            }
+		],	
+        "clusterSize": 10,
+        "numClusters": 6,
+        "minHeight": 1,
+        "maxHeight": 50,
+	    "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+              -1,
+            1,
+			-100
+        ]
+    }
+}
+	

@@ -21,6 +21,8 @@ Below are the mods that are installed so far
 - Applied Energistics 2
 - Aqua Culture
 - Baubles
+- BaublesHud
+- Baubles Stuff
 - Bibliocraft
 - Bibliowoods Biomes O' Plenty
 - Bibliowoods Forestry
@@ -101,6 +103,7 @@ Below are the mods that are installed so far
 - Project Red
 - Railcraft
 - Railcraft Cosmetics
+- Redstone Aresenal
 - Reliquary
 - RFTools
 - Runic Dungeons
@@ -132,6 +135,7 @@ Below are the mods that are installed so far
 - TiC Tooltips
 - Traveller's Gear
 - Twilight Forest
+- UniDict
 - WAILA
 - WAILA Harvestability
 - WAWLA
