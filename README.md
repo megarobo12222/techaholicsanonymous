@@ -11,6 +11,7 @@ Below are the mods that are installed so far
 
 - Additional Compression
 - Advanced Thaumaturgy 2
+- Advanced Solar Panels
 - AE2 Stuff
 - AgriCraft
 - AnimalsPlus
@@ -41,6 +42,8 @@ Below are the mods that are installed so far
 - CodeChicken Core
 - CodeChicken Lib
 - CoFH Core
+- Cooking for Blockheads
+- Decocraft
 - Dense Ores
 - Dimensional Anchors
 - DragonAPI
@@ -59,6 +62,7 @@ Below are the mods that are installed so far
 - Gendustry
 - Growthcraft Community Edtion
 - Hardcore Wither
+- Hunger Overhaul
 - ThaumicNEI
 - Iguanas Tinker Tweaks
 - Immersive Engineering
@@ -69,6 +73,7 @@ Below are the mods that are installed so far
 - IronBackpacks
 - Ironchest
 - JABBA
+- JAFFA
 - Journeymap
 - Logistics Pipes
 - Magic Bees
@@ -85,6 +90,7 @@ Below are the mods that are installed so far
 - Minechem
 - Minefactory Reloaded
 - Morpheus
+- MrCrafish's Furniture Mod
 - Mutant Creatures
 - Natura
 - NEI Addons
@@ -94,6 +100,9 @@ Below are the mods that are installed so far
 - OpenBlocks
 - OpenModsLib
 - Pam's Harvestcraft
+- Project Red
+- Railcraft
+- Railcraft Cosmetics
 - Redstone Aresenal
 - Reliquary
 - RFTools
@@ -103,6 +112,8 @@ Below are the mods that are installed so far
 - Sodiumcraft
 - SpecialMobs
 - Spice Of Life
+- Steve's Addon
+- Steve's Factory Manager
 - Storage Drawers
 - Storage Drawers Biomes O' Plenty pack
 - Storage Drawers Forestry pack
