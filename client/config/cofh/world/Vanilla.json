@@ -1,4 +1,71 @@
-{ 
+{
+
+    "Dirt": {
+        "template": "uniform",
+        "block": "dirt",
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 5,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+    "Gravel": {
+        "template": "uniform",
+        "block": "gravel",
+        "material": "stone",
+        "clusterSize": 16,
+        "numClusters": 5,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+    "Nether Quartz Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "minecraft:quartz_ore", 
+                "weight": 85
+            },
+			{
+                "name": "minecraft:quartz_block",
+                "weight": 5
+			},
+			{
+                "name": "denseores:block0",
+				"metadata": 7,
+                "weight": 10
+			}
+			],
+        "material": "minecraft:netherrack",
+        "clusterSize": 13,
+        "numClusters": 16,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "dictionary", "entry": "NETHER"}
+        ],
+        "dimensionRestriction": "none",
+        "dimensions": []
+    },
 
     "Diamond Ore": {
         "template": "uniform",
@@ -303,5 +370,4 @@
 			-100
         ]
     }
-}	
-	
+}

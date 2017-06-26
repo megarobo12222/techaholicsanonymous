@@ -65,170 +65,89 @@
 			-100
         ]
     },
-	
-    "Air Infused Stone Ore": {
-        "template": "uniform",
+  
+  "Mixed Infused Ore": {
+       "template": {"type": "fractal", "generator": "large-vein", "sparse": false},
         "block": [
 		     {
 			    "name": "Thaumcraft:blockCustomOre",
 				"metadata": 1,
-                "weight": 100
-			 }
-			],
-		"material": [
-			{   
-                "name": "minecraft:stone"
-            }
-		],			
-        "clusterSize": 2,
-        "numClusters": 3,
-        "minHeight": 0,
-        "maxHeight": 256,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-               -1,
-            1,
-			-100
-        ]
-    },
-	
-    "Fire Infused Stone Ore": {
-        "template": "uniform",
-        "block": [
-		     {
+                "weight": 10
+			 },
+			 {
+			    "name": "Thaumcraft:blockCrystal",
+                "weight": 5
+			 },
+			 {
 			    "name": "Thaumcraft:blockCustomOre",
 				"metadata": 2,
-                "weight": 100
-			 }
-			],
-		"material": [
-			{   
-                "name": "minecraft:stone"
-            }
-		],			
-        "clusterSize": 2,
-        "numClusters": 4,
-        "minHeight": 0,
-        "maxHeight": 256,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-               -1,
-            1,
-			-100
-        ]
-    },
-	
-	 "Water Infused Shard Ore": {
-        "template": "uniform",
-        "block": [
-		     {
+                "weight": 10
+			},	
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 1,
+                "weight": 10
+			},
+			{
 			    "name": "Thaumcraft:blockCustomOre",
 				"metadata": 3,
-                "weight": 100
-			 }
-			],
-		"material": [
-			{   
-                "name": "minecraft:stone"
-            }
-		],			
-        "clusterSize": 2,
-        "numClusters": 3,
-        "minHeight": 0,
-        "maxHeight": 256,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-              -1,
-            1,
-			-100
-        ]
-    },
-	
-	 "Earth Infused Shard Ore": {
-        "template": "uniform",
-        "block": [
-		     {
+                "weight": 10
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 2,
+                "weight": 5
+			},
+			{
 			    "name": "Thaumcraft:blockCustomOre",
 				"metadata": 4,
-                "weight": 100
-			 }
-			],
-		"material": [
-			{   
-                "name": "minecraft:stone"
-            }
-		],			
-        "clusterSize": 2,
-        "numClusters": 3,
-        "minHeight": 0,
-        "maxHeight": 256,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-               -1,
-            1,
-			-100
-        ]
-    },
-	
-   "Order Infused Shard Ore": {
-        "template": "uniform",
-        "block": [
-		     {
+                "weight": 10
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 3,
+                "weight": 5
+			},
+			{
 			    "name": "Thaumcraft:blockCustomOre",
 				"metadata": 5,
-                "weight": 100
-			 }
-			],
-		"material": [
-			{   
-                "name": "minecraft:stone"
-            }
-		],			
-        "clusterSize": 2,
-        "numClusters": 3,
-        "minHeight": 0,
-        "maxHeight": 256,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-               -1,
-            1,
-			-100
-        ]
-    },
-	
-    "Entropy Infused Shard Ore": {
-        "template": "uniform",
-        "block": [
-		     {
+                "weight": 10
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 4,
+                "weight": 5
+			},
+			{
 			    "name": "Thaumcraft:blockCustomOre",
 				"metadata": 6,
-                "weight": 100
-			 }
+                "weight": 10
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 5,
+                "weight": 5
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 6,
+                "weight": 10
+			}
 			],
 		"material": [
 			{   
                 "name": "minecraft:stone"
             }
 		],			
-        "clusterSize": 2,
-        "numClusters": 3,
-        "minHeight": 0,
-        "maxHeight": 256,
+        "clusterSize": 30,
+        "numClusters": 2,
+        "chunkChance": 10,
+        "minHeight": 20,
+		"maxHeight": 120,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],

@@ -1,19 +1,19 @@
-{
+ {
  
-   "Osmium Ore": {
+   "Apatite Ore": {
         "template": "uniform",
         "block": [
             {
-                "name": "Mekanism:OreBlock",
+                "name": "Forestry:resources",
                 "weight": 85
 			},
 			 {
-                "name": "Mekanism:BasicBlock",
+                "name": "Forestry:resourceStorage",
                 "weight": 5
             },
 			{
-                "name": "denseores:block5",
-				"metadata": 14,
+                "name": "denseores:block0",
+				"metadata": 10,
                 "weight": 10
 			}
         ],

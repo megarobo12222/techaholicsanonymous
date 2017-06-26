@@ -15,11 +15,18 @@
             },
 			{
                 "name": "denseores:block5",
-				"metadata": 11,
+				"metadata": 7,
                 "weight": 10
 			}
 			],
-		"material": "minecraft:netherrack",
+		"material": [
+			{   
+                "name": "minecraft:netherrack"
+            },
+			{
+			 "name": "minecraft:soul_sand"
+			}
+		],		
         "clusterSize": 10,
         "numClusters": 8,
         "minHeight": 27,
@@ -51,11 +58,18 @@
             },
 			{
                 "name": "denseores:block5",
-				"metadata": 12,
+				"metadata": 8,
                 "weight": 10
 			}
 			],
-		"material": "minecraft:netherrack",
+		"material": [
+			{   
+                "name": "minecraft:netherrack"
+            },
+			{
+			 "name": "minecraft:soul_sand"
+			}
+		],		
         "clusterSize": 10,
         "numClusters": 8,
         "minHeight": 27,
@@ -87,11 +101,18 @@
             },
 			{
                 "name": "denseores:block5",
-				"metadata": 13,
+				"metadata": 9,
                 "weight": 10
 			}
 			],
-		"material": "minecraft:netherrack",
+		"material": [
+			{   
+                "name": "minecraft:netherrack"
+            },
+			{
+			 "name": "minecraft:soul_sand"
+			}
+		],		
         "clusterSize": 10,
         "numClusters": 8,
         "minHeight": 27,

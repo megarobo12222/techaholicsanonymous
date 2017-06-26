@@ -36,7 +36,6 @@
         ]
     },
 	
-	
 	"Deep Iron Ore": {
         "template": "uniform",
         "block": [
@@ -232,46 +231,6 @@
         ]
 	},
 	
-	
-   "Mithril Ore": {
-        "template": "uniform",
-        "block": [
-            {
-                "name": "Metallurgy:fantasy.ore",
-				"metadata": 7,
-                "weight": 85
-			},
-			 {
-                "name": "Metallurgy:fantasy.block",
-				"metadata": 7,
-                "weight": 5
-            },
-			{
-                "name": "denseores:block3",
-				"metadata": 1,
-                "weight": 10
-			}
-        ],
-        "material": [
-			{   
-                "name": "minecraft:stone"
-            }
-		],	
-        "clusterSize": 8,
-        "numClusters": 3,
-        "minHeight": 17,
-        "maxHeight": 26,
-	    "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-              -1,
-            1,
-			-100
-        ]
-	},
-	
    "Rubracium Ore": {
         "template": "uniform",
         "block": [
@@ -287,7 +246,7 @@
             },
 			{
                 "name": "denseores:block3",
-				"metadata": 2,
+				"metadata": 1,
                 "weight": 10
 			}
         ],
@@ -326,7 +285,7 @@
             },
 			{
                 "name": "denseores:block3",
-				"metadata": 3,
+				"metadata": 2,
                 "weight": 10
 			}
         ],
@@ -365,7 +324,7 @@
             },
 			{
                 "name": "denseores:block3",
-				"metadata": 4,
+				"metadata": 3,
                 "weight": 10
 			}
         ],
@@ -374,7 +333,7 @@
                 "name": "minecraft:stone"
             }
 		],	
-        "clusterSize": 10,
+        "clusterSize": 5,
         "numClusters": 1,
         "minHeight": 4,
         "maxHeight": 10,
@@ -405,20 +364,17 @@
             },
 			{
                 "name": "denseores:block3",
-				"metadata": 5,
+				"metadata": 4,
                 "weight": 10
 			}
         ],
         "material": [
 			{   
                 "name": "minecraft:stone"
-            },
-			{   
-                "name": "minecraft:cobblestone"
             }
 		],	
-        "clusterSize": 6,
-        "numClusters": 2,
+        "clusterSize": 3,
+        "numClusters": 1,
         "minHeight": 10,
         "maxHeight": 16,
 	    "retrogen": "true",
