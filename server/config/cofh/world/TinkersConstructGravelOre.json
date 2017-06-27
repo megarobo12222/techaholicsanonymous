@@ -11,7 +11,8 @@
 				"weight": 5	
 			},
 			{
-				"name": "denseores:block4","metadata": 8,
+				"name": "denseores:block4",
+				"metadata": 7,
 				"weight": 10
 			}
 		],
@@ -52,7 +53,7 @@
 			},
 			{
 				"name": "denseores:block4",
-				"metadata": 9,
+				"metadata": 8,
 				"weight": 10
 			}
 		],	
@@ -94,7 +95,7 @@
 			},
 			{
 				"name": "denseores:block4",
-				"metadata": 10,
+				"metadata": 9,
 				"weight": 10
 			}
 		],	
@@ -136,7 +137,7 @@
 			},
 			{
 				"name": "denseores:block4",
-				"metadata": 11,
+				"metadata": 10,
 				"weight": 10
 			}
 		],	
@@ -179,7 +180,7 @@
 			},
 			{
 				"name": "denseores:block4",
-				"metadata": 12,
+				"metadata": 11,
 				"weight": 10
 			}
 		],	
@@ -220,7 +221,7 @@
 			},
 			{
 				"name": "denseores:block4",
-				"metadata": 13,
+				"metadata": 12,
 				"weight": 10
 			}
 		],	
