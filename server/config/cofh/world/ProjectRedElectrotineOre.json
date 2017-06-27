@@ -1,0 +1,45 @@
+{
+	
+"Electrotine Ore": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "denseores:block6",
+				        "metadata": 11,
+                "weight": 10
+			      },
+            {
+                "name": "ProjRed|Exploration:projectred.exploration.stone",
+                "metadata": 11,
+                "weight": 5
+            },
+            {
+                "name": "ProjRed|Exploration:projectred.exploration.ore",
+                "metadata": 6,
+                "weight": 85
+            }
+        ],
+        "material": [
+			{   
+                "name": "minecraft:stone"
+            },
+			{   
+                "name": "minecraft:cobblestone"
+            }
+		],		
+        "clusterSize": 5,
+        "numClusters": 7,
+        "minHeight": 1,
+        "maxHeight": 20,
+	      "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		-1,
+	       1,
+		-100
+        ]
+    }
+	
+}

@@ -10,7 +10,12 @@
 			 {
                 "name": "Mekanism:BasicBlock",
                 "weight": 5
-            }
+            },
+			{
+                "name": "denseores:block5",
+				"metadata": 14,
+                "weight": 10
+			}
         ],
         "material": [
 			{   

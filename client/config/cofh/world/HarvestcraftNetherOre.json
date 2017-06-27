@@ -1,16 +1,19 @@
 {
-
-	"Nether Amber Ore": {
+	
+	"Nether Salt Ore": {
         "template": "uniform",
         "block": [
 			 {
                 "name": "NetherOres:tile.netherores.ore.1",
-                "metadata": 11,				
+                "metadata": 13,				
                 "weight": 85
             },
 			{
+                "name": "harvestcraft:spamcompressedsaltBlockalt",
+                "weight": 5
+			},
+			{
                 "name": "denseores:block6",
-				"metadata": 3,
                 "weight": 10
 			}
 			],
@@ -24,8 +27,8 @@
 		],		
         "clusterSize": 10,
         "numClusters": 8,
-        "minHeight": 64,
-        "maxHeight": 122,
+        "minHeight": 0,
+        "maxHeight": 256,
         "retrogen": "true",
         "biomeRestriction": "none",
          "biomes": [
@@ -37,3 +40,5 @@
         ]
     }
 }	
+
+	
