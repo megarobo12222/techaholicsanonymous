@@ -13,12 +13,19 @@
                 "weight": 5
 			},
 			{
-                "name": "denseores:block6",
-				"metadata": 2,
+                "name": "denseores:block5",
+				"metadata": 14,
                 "weight": 10
 			}
 			],
-		"material": "minecraft:netherrack",
+		"material": [
+			{   
+                "name": "minecraft:netherrack"
+            },
+			{
+			 "name": "minecraft:soul_sand"
+			}
+		],		
         "clusterSize": 10,
         "numClusters": 8,
         "minHeight": 64,
