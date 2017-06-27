@@ -1,249 +1,252 @@
 {
-	"Iron Gravel Ore": {
-		"template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
-		"block": [             
-			{
-				"name": "TConstruct:GravelOre",
-				"weight": 85
-			},
-			{
-				"name": "minecraft:iron_block",
-				"weight": 5	
-			},
-			{
-				"name": "denseores:block4","metadata": 8,
-				"weight": 10
-			}
-		],
-		"material": [
-			"minecraft:stone",
-			"minecraft:grass",
-			"minecraft:dirt",
-			"minecraft:sand",
-			"minecraft:snow",
-			"minecraft:water"
-		],
-		"clusterSize": 8,
-		"numClusters": 8,
-		"minHeight": 0,
-		"chunkChance": 210,
-		"maxHeight": 80,
-		"retrogen": "true",
-		"biomeRestriction": "none",
-		"biomes": [],
-		"dimensionRestriction": "blacklist",
-		"dimensions": [
-			-1,
-			1
-		]
-	},
 
-	"Gold Gravel Ore": {
-		"template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
-		"block": [             
+ "Iron Gravel Ore": {
+        "template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
+        "block": [             
+		      {
+                "name": "TConstruct:GravelOre",
+                "weight": 85
+			},
 			{
-				"name": "TConstruct:GravelOre",
+                "name": "minecraft:iron_block",
+                "weight": 5
+			},
+			{
+                "name": "denseores:block4",
+				"metadata": 7,
+                "weight": 10
+			}
+		],	
+        "material": [
+            "minecraft:stone",
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:snow",
+            "minecraft:water"
+        ],
+        "clusterSize": 8,
+        "numClusters": 8,
+        "minHeight": 0,
+        "chunkChance": 210,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	  "Gold Gravel Ore": {
+        "template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
+        "block": [             
+		      {
+                "name": "TConstruct:GravelOre",
 				"metadata": 1,
-				"weight": 85
+                "weight": 85
 			},
 			{
-				"name": "minecraft:gold_block",
-				"weight": 5
+                "name": "minecraft:gold_block",
+                "weight": 5
 			},
 			{
-				"name": "denseores:block4",
-				"metadata": 9,
-				"weight": 10
+                "name": "denseores:block4",
+				"metadata": 8,
+                "weight": 10
 			}
 		],	
-		"material": [
-			"minecraft:stone",
-			"minecraft:grass",
-			"minecraft:dirt",
-			"minecraft:sand",
-			"minecraft:snow",
-			"minecraft:water"
-		],
-		"clusterSize": 8,
-		"numClusters": 8,
-		"minHeight": 0,
-		"chunkChance": 230,
-		"maxHeight": 80,
-		"retrogen": "true",
-		"biomeRestriction": "none",
-		"biomes": [],
-		"dimensionRestriction": "blacklist",
-		"dimensions": [
-			-1,
-			1
-		]
-	},
-
-	"Copper Gravel Ore": {
-		"template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
-		"block": [             
-			{
-				"name": "TConstruct:GravelOre",
+        "material": [
+            "minecraft:stone",
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:snow",
+            "minecraft:water"
+        ],
+        "clusterSize": 8,
+        "numClusters": 8,
+        "minHeight": 0,
+        "chunkChance": 230,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+	
+	  "Copper Gravel Ore": {
+        "template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
+        "block": [             
+		      {
+                "name": "TConstruct:GravelOre",
 				"metadata": 2,
-				"weight": 85
+                "weight": 85
 			},
 			{
-				"name": "TConstruct:MetalBlock",
+                "name": "TConstruct:MetalBlock",
 				"metadata": 3,
-				"weight": 5
+                "weight": 5
 			},
 			{
-				"name": "denseores:block4",
+                "name": "denseores:block4",
+				"metadata": 9,
+                "weight": 10
+			}
+		],	
+        "material": [
+            "minecraft:stone",
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:snow",
+            "minecraft:water"
+        ],
+        "clusterSize": 8,
+        "numClusters": 8,
+        "minHeight": 0,
+        "chunkChance": 150,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	 "Tin Gravel Ore": {
+        "template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
+        "block": [             
+		      {
+                "name": "TConstruct:GravelOre",
+				"metadata": 3,
+                "weight": 85
+			},
+			{
+                "name": "TConstruct:MetalBlock",
+				"metadata": 5,
+                "weight": 5
+			},
+			{
+                "name": "denseores:block4",
 				"metadata": 10,
-				"weight": 10
+                "weight": 10
 			}
 		],	
-		"material": [
-			"minecraft:stone",
-			"minecraft:grass",
-			"minecraft:dirt",
-			"minecraft:sand",
-			"minecraft:snow",
-			"minecraft:water"
-		],
-		"clusterSize": 8,
-		"numClusters": 8,
-		"minHeight": 0,
-		"chunkChance": 150,
-		"maxHeight": 80,
-		"retrogen": "true",
-		"biomeRestriction": "none",
-		"biomes": [],
-		"dimensionRestriction": "blacklist",
-		"dimensions": [
-			-1,
-			1
-		]
-	},
-
-	"Tin Gravel Ore": {
-		"template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
-		"block": [             
-			{
-				"name": "TConstruct:GravelOre",
-				"metadata": 3,
-				"weight": 85
-			},
-			{
-				"name": "TConstruct:MetalBlock",
-				"metadata": 5,
-				"weight": 5
-			},
-			{
-				"name": "denseores:block4",
-				"metadata": 11,
-				"weight": 10
-			}
-		],	
-		"material": [
-			"minecraft:stone",
-			"minecraft:grass",
-			"minecraft:dirt",
-			"minecraft:sand",
-			"minecraft:snow",
-			"minecraft:water",
-			"minecraft:air"
-		],
-		"clusterSize": 8,
-		"numClusters": 8,
-		"minHeight": 0,
-		"chunkChance": 170,
-		"maxHeight": 80,
-		"retrogen": "true",
-		"biomeRestriction": "none",
-		"biomes": [],
-		"dimensionRestriction": "blacklist",
-		"dimensions": [
-			-1,
-			1
-		]
-	},
-
-	"Aluminium Gravel Ore": {
-		"template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
-		"block": [             
-			{
-				"name": "TConstruct:GravelOre",
+        "material": [
+            "minecraft:stone",
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:snow",
+            "minecraft:water",
+            "minecraft:air"
+        ],
+        "clusterSize": 8,
+        "numClusters": 8,
+        "minHeight": 0,
+        "chunkChance": 170,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	  "Aluminium Gravel Ore": {
+        "template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
+        "block": [             
+		      {
+                "name": "TConstruct:GravelOre",
 				"metadata": 4,
-				"weight": 85
+                "weight": 85
 			},
 			{
-				"name": "TConstruct:MetalBlock",
+                "name": "TConstruct:MetalBlock",
 				"metadata": 6,
-				"weight": 5
+                "weight": 5
 			},
 			{
-				"name": "denseores:block4",
-				"metadata": 12,
-				"weight": 10
+                "name": "denseores:block4",
+				"metadata": 11,
+                "weight": 10
 			}
 		],	
-		"material": [
-			"minecraft:stone",
-			"minecraft:grass",
-			"minecraft:dirt",
-			"minecraft:sand",
-			"minecraft:snow",
-			"minecraft:water"
-		],
-		"clusterSize": 8,
-		"numClusters": 8,
-		"minHeight": 0,
-		"chunkChance": 190,
-		"maxHeight": 80,
-		"retrogen": "true",
-		"biomeRestriction": "none",
-		"biomes": [],
-		"dimensionRestriction": "blacklist",
-		"dimensions": [
-			-1,
-			1
-		]
-	},
+        "material": [
+            "minecraft:stone",
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:snow",
+            "minecraft:water"
+        ],
+        "clusterSize": 8,
+        "numClusters": 8,
+        "minHeight": 0,
+        "chunkChance": 190,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
 
-	"Cobalt Gravel Ore": {
-		"template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
-		"block": [             
-			{
-				"name": "TConstruct:GravelOre",
+
+    "Cobalt Gravel Ore": {
+        "template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
+        "block": [             
+		      {
+                "name": "TConstruct:GravelOre",
 				"metadata": 5,
-				"weight": 85
+                "weight": 85
 			},
 			{
-				"name": "TConstruct:MetalBlock",
-				"weight": 5
+                "name": "TConstruct:MetalBlock",
+                "weight": 5
 			},
 			{
-				"name": "denseores:block4",
-				"metadata": 13,
-				"weight": 10
+                "name": "denseores:block4",
+				"metadata": 12,
+                "weight": 10
 			}
 		],	
-		"material": [
-			"minecraft:stone",
-			"minecraft:grass",
-			"minecraft:dirt",
-			"minecraft:sand",
-			"minecraft:snow",
-			"minecraft:water"
-		],
-		"clusterSize": 8,
-		"numClusters": 4,
-		"minHeight": 0,
-		"chunkChance": 300,
-		"maxHeight": 80,
-		"retrogen": "true",
-		"biomeRestriction": "none",
-		"biomes": [],
-		"dimensionRestriction": "blacklist",
-		"dimensions": [
-			-1,
-			1
-		]
-	}
+        "material": [
+            "minecraft:stone",
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:snow",
+            "minecraft:water"
+        ],
+        "clusterSize": 8,
+        "numClusters": 4,
+        "minHeight": 0,
+        "chunkChance": 300,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
 }
