@@ -89,8 +89,8 @@
                 "name": "minecraft:stone"
             }
 		],	
-        "clusterSize": 7,
-        "numClusters": 2,
+        "clusterSize": 10,
+        "numClusters": 1,
         "minHeight": 0,
         "maxHeight": 16,
 	    "retrogen": "true",
