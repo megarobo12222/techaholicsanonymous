@@ -197,7 +197,7 @@
 	},
 
 
-	"Nether Mana Infused Ore": {
+	"Nether Mithril Ore": {
 		"template": "uniform",
 		"block": [
 			{
@@ -212,7 +212,7 @@
 			},
 			{
 				"name": "denseores:block6",
-				"metadata": 5,
+				"metadata": 6,
 				"weight": 10
 			}
 		],
