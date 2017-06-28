@@ -181,7 +181,7 @@
                 "weight": 5
             },
 			{
-                "name": "denseores:block0",
+                "name": "denseores:block1",
 				"metadata": 7,
                 "weight": 10
 			}
@@ -223,7 +223,7 @@
                 "weight": 5
             },
 			{
-                "name": "denseores:block0",
+                "name": "denseores:block1",
 				"metadata": 8,
                 "weight": 10
 			}
@@ -265,7 +265,7 @@
                 "weight": 5
             },
 			{
-                "name": "denseores:block0",
+                "name": "denseores:block1",
 				"metadata": 9,
                 "weight": 10
 			}
