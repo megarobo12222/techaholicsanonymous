@@ -52,6 +52,7 @@ Below are the mods that are installed so far
 - EnderCore
 - EnderIO
 - Ender Storage
+- Epic Siege Mod
 - Extra Cells
 - Extra TiC
 - Extra Utilities
@@ -94,12 +95,14 @@ Below are the mods that are installed so far
 - MrCrafish's Furniture Mod
 - Mutant Creatures
 - Natura
+- Nature's Compass
 - NEI Addons
 - Nether Ores
 - Not Enough Items (NEI)
 - Not Enough Resources
 - OpenBlocks
 - OpenModsLib
+- OpenModularTurrets2
 - Pam's Harvestcraft
 - Project Red
 - Railcraft
