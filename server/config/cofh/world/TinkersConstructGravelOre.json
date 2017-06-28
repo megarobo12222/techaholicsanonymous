@@ -1,6 +1,6 @@
 {
 	"Iron Gravel Ore": {
-		"template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
+		"template": {"type": "surface", "generator": "cluster", "followTerrain": "true"},
 		"block": [             
 			{
 				"name": "TConstruct:GravelOre",
@@ -28,7 +28,7 @@
 		"numClusters": 2,
 		"minHeight": 0,
 		"chunkChance": 210,
-		"maxHeight": 80,
+		"maxHeight": 256,
 		"retrogen": "true",
 		"biomeRestriction": "none",
 		"biomes": [],
@@ -40,7 +40,7 @@
 	},
 
 	"Gold Gravel Ore": {
-		"template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
+		"template": {"type": "surface", "generator": "cluster", "followTerrain": "true"},
 		"block": [             
 			{
 				"name": "TConstruct:GravelOre",
@@ -69,7 +69,7 @@
 		"numClusters": 2,
 		"minHeight": 0,
 		"chunkChance": 230,
-		"maxHeight": 80,
+		"maxHeight": 256,
 		"retrogen": "true",
 		"biomeRestriction": "none",
 		"biomes": [],
@@ -81,7 +81,7 @@
 	},
 
 	"Copper Gravel Ore": {
-		"template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
+		"template": {"type": "surface", "generator": "cluster", "followTerrain": "true"},
 		"block": [             
 			{
 				"name": "TConstruct:GravelOre",
@@ -111,7 +111,7 @@
 		"numClusters": 2,
 		"minHeight": 0,
 		"chunkChance": 150,
-		"maxHeight": 80,
+		"maxHeight": 256,
 		"retrogen": "true",
 		"biomeRestriction": "none",
 		"biomes": [],
@@ -123,7 +123,7 @@
 	},
 
 	"Tin Gravel Ore": {
-		"template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
+		"template": {"type": "surface", "generator": "cluster", "followTerrain": "true"},
 		"block": [             
 			{
 				"name": "TConstruct:GravelOre",
@@ -154,7 +154,7 @@
 		"numClusters": 2,
 		"minHeight": 0,
 		"chunkChance": 170,
-		"maxHeight": 80,
+		"maxHeight": 256,
 		"retrogen": "true",
 		"biomeRestriction": "none",
 		"biomes": [],
@@ -166,7 +166,7 @@
 	},
 
 	"Aluminium Gravel Ore": {
-		"template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
+		"template": {"type": "surface", "generator": "cluster", "followTerrain": "true"},
 		"block": [             
 			{
 				"name": "TConstruct:GravelOre",
@@ -196,7 +196,7 @@
 		"numClusters": 2,
 		"minHeight": 0,
 		"chunkChance": 190,
-		"maxHeight": 80,
+		"maxHeight": 256,
 		"retrogen": "true",
 		"biomeRestriction": "none",
 		"biomes": [],
@@ -208,7 +208,7 @@
 	},
 
 	"Cobalt Gravel Ore": {
-		"template": {"type": "surface", "generator": "cluster", "followTerrain": "false"},
+		"template": {"type": "surface", "generator": "cluster", "followTerrain": "true"},
 		"block": [             
 			{
 				"name": "TConstruct:GravelOre",
@@ -237,7 +237,7 @@
 		"numClusters": 2,
 		"minHeight": 0,
 		"chunkChance": 300,
-		"maxHeight": 80,
+		"maxHeight": 256,
 		"retrogen": "true",
 		"biomeRestriction": "none",
 		"biomes": [],
