@@ -1,40 +1,36 @@
 {
- 
-   "Shadow Ore": {
-        "template": "uniform",
-        "block": [
-            {
-                "name": "TaintedMagic:OreShadow",
-                "weight": 85
-			},
-			 {
-                "name": "TaintedMagic:BlockShadowmetal",
-                "weight": 5
-            },
+	"Shadow Ore": {
+		"template": "uniform",
+		"block": [             
 			{
-                "name": "denseores:block6",
+				"name": "TaintedMagic:BlockShadowOre",
+				"weight": 85
+			},
+			{
+				"name": "TaintedMagic:BlockShadowmetal",
+				"weight": 5	
+			},
+			{
+				"name": "denseores:block6",
 				"metadata": 7,
-                "weight": 10
+				"weight": 10
 			}
-        ],
-        "material": [
-			{   
-                "name": "minecraft:stone"
-            }
-		],	
-        "clusterSize": 5,
-        "numClusters": 1,
-        "minHeight": 1,
-        "maxHeight": 10,
-	    "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-              -1,
-            1,
+		],
+		"material": [
+			"minecraft:stone"
+		],
+		"clusterSize": 5,
+		"numClusters": 1,
+		"minHeight": 0,
+		"maxHeight": 16,
+		"retrogen": "true",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "blacklist",
+		"dimensions": [
+			-1,
+			1,
 			-100
-        ]
-    }
+		]
+	}
 }
-	
