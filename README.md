@@ -107,6 +107,7 @@ Below are the mods that are installed so far
 - Project Red
 - Railcraft
 - Railcraft Cosmetics
+- Recurrent Complex
 - Redstone Aresenal
 - Reliquary
 - RFTools
