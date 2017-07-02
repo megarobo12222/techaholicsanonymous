@@ -316,8 +316,8 @@
                 "name": "minecraft:cobblestone"
             }
 		],		
-        "clusterSize": 10,
-        "numClusters": 1,
+        "clusterSize": 7,
+        "numClusters": 5,
         "minHeight": 1,
         "maxHeight": 20,
 	    "retrogen": "true",

@@ -148,7 +148,6 @@
 			"minecraft:sand",
 			"minecraft:snow",
 			"minecraft:water",
-			"minecraft:air"
 		],
 		"clusterSize": 8,
 		"numClusters": 2,
