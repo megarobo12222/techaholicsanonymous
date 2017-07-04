@@ -91,6 +91,7 @@ Below are the mods that are installed so far
 - Metallurgy Core
 - Minechem
 - Minefactory Reloaded
+- Modular Force Field System
 - Morpheus
 - MrCrafish's Furniture Mod
 - Mutant Creatures
