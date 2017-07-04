@@ -147,7 +147,7 @@
 			"minecraft:dirt",
 			"minecraft:sand",
 			"minecraft:snow",
-			"minecraft:water",
+			"minecraft:water"
 		],
 		"clusterSize": 8,
 		"numClusters": 2,
