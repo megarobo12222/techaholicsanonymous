@@ -61,19 +61,20 @@ Below are the mods that are installed so far
 - Forestry
 - Gadomancy
 - Gendustry
-- Growthcraft Community Edtion
+- Growthcraft Community Edition
 - Hardcore Wither
 - Hunger Overhaul
 - ThaumicNEI
+- IC2 Nuclear Control
 - Iguanas Tinker Tweaks
 - Immersive Engineering
 - Immersive Integration
 - Immibis Core
 - IndustrialCraft 2
-- IC2 Nuclear Control
 - Inventory Tweaks
 - IronBackpacks
 - Ironchest
+- IvToolkit
 - JABBA
 - JAFFA
 - Journeymap
