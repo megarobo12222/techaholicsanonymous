@@ -158,7 +158,7 @@
         "block": [
 		     {
 			    "name": "ThermalFoundation:Ore",
-				"metadata": 4,
+				"metadata": 5,
                 "weight": 85
 			 },
 			 {
