@@ -1,0 +1,835 @@
+{
+
+   "Vulcanite Ore Geode": {
+        "enabled": false,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+           "crust": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+        "block": [
+            {
+                "name": "Metallurgy:nether.ore",
+				"metadata": 8,
+                "weight": 60
+			},
+			 {
+                "name": "Metallurgy:nether.block",
+				"metadata": 8,
+                "weight": 15
+            },
+			{
+                "name": "denseores:block3",
+				"metadata": 13,
+                "weight": 25
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 24,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 40, 
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    },
+	
+	"Orichalcum Ore Geode": {
+        "enabled": false,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+           "crust": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+        "block": [
+            {
+                "name": "Metallurgy:fantasy.ore",
+				"metadata": 11,
+                "weight": 60
+			},
+			{
+                "name": "Metallurgy:fantasy.block",
+				"metadata": 11,
+                "weight": 15
+            },
+			{
+                "name": "denseores:block3",
+				"metadata": 2,
+                "weight": 25
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 21,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 40, 
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    },
+	
+	"Sanguinite Ore Geode": {
+        "enabled": false,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+           "crust": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+        "block": [
+            {
+                "name": "Metallurgy:nether.ore",
+				"metadata": 9,
+                "weight": 60
+			},
+			{
+                "name": "Metallurgy:nether.block",
+				"metadata": 9,
+                "weight": 15
+            },
+			{
+                "name": "denseores:block3",
+				"metadata": 14,
+                "weight": 25
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 21,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 20, 
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    },
+	
+	"Adamantine Ore Geode": {
+        "enabled": false,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+           "crust": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+        "block": [
+            {
+                "name": "Metallurgy:fantasy.ore",
+				"metadata": 13,
+                "weight": 60
+			},
+			{
+                "name": "Metallurgy:fantasy.block",
+				"metadata": 13,
+                "weight": 15
+            },
+			{
+                "name": "denseores:block3",
+				"metadata": 3,
+                "weight": 25
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 15,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 20, 
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    },
+	
+	"Atlarus Ore Geode": {
+        "enabled": false,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+           "crust": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+        "block": [
+            {
+                "name": "Metallurgy:fantasy.ore",
+				"metadata": 14,
+                "weight": 60
+			},
+			{
+                "name": "Metallurgy:fantasy.block",
+				"metadata": 14,
+                "weight": 15
+            },
+			{
+                "name": "denseores:block3",
+				"metadata": 4,
+                "weight": 25
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 10,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 20, 
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    },
+	
+	"Platinum Ore Spikes": {
+        "template": {
+            "type": "uniform",
+            "generator": "spike",
+            "minHeight": 3,
+            "heightVariance": 2,
+            "sizeVariance": 1,
+            "positionVariance": 1,
+            "largeSpikes": "true",
+            "largeSpikeChance": 6,
+            "minLargeSpikeHeightGain": 3,
+            "largeSpikeHeightVariance": 3,
+            "largeSpikeFillerSize": 0
+        },
+        "block": [
+            {
+                "name": "Metallurgy:precious.ore",
+				"metadata": 2,
+                "weight": 60
+			},
+			{
+                "name": "Metallurgy:precious.block",
+				"metadata": 2,
+                "weight": 15
+            },
+			{
+                "name": "denseores:block4",
+                "weight": 25
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 2,
+        "minHeight": 83,
+        "chunkChance": 150,
+        "maxHeight": 100,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },	
+
+  "Zinc Ore Spikes": {
+        "template": {
+            "type": "uniform",
+            "generator": "spike",
+            "minHeight": 3,
+            "heightVariance": 2,
+            "sizeVariance": 1,
+            "positionVariance": 1,
+            "largeSpikes": "true",
+            "largeSpikeChance": 6,
+            "minLargeSpikeHeightGain": 3,
+            "largeSpikeHeightVariance": 3,
+            "largeSpikeFillerSize": 0
+        },
+        "block": [
+            {
+                "name": "Metallurgy:precious.ore",
+                "weight": 60
+			},
+			{
+                "name": "Metallurgy:precious.block",
+                "weight": 15
+            },
+			{
+                "name": "denseores:block3",
+				"metadata": 15,
+                "weight": 25
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 2,
+        "minHeight": 83,
+        "chunkChance": 150,
+        "maxHeight": 100,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },		
+
+ "Sulfur Ore Vein": {
+        "template": {"type": "fractal", "generator": "large-vein", "sparse": true},
+        "block": [ 
+		    {
+                "name": "Metallurgy:utility.ore",
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:utility.block",
+                "weight": 5
+            },
+			{
+                "name": "denseores:block4",
+				"metadata": 1,
+                "weight": 10
+			}
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "clusterSize": 18,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 2,
+		"maxHeight": 60,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+
+ "Phosphorite Ore Vein": {
+        "template": {"type": "fractal", "generator": "large-vein", "sparse": true},
+        "block": [ 
+		    {
+                "name": "Metallurgy:utility.ore",
+				"metadata": 1,
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:utility.block",
+				"metadata": 1,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block4",
+				"metadata": 2,
+                "weight": 10
+			}
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "clusterSize": 28,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 2,
+		"maxHeight": 60,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+
+ "Saltpeter Ore Vein": {
+        "template": {"type": "fractal", "generator": "large-vein", "sparse": true},
+        "block": [ 
+		    {
+                "name": "Metallurgy:utility.ore",
+				"metadata": 2,
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:utility.block",
+				"metadata": 2,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block4",
+				"metadata": 3,
+                "weight": 10
+			}
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 2,
+		"maxHeight": 60,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+
+ "Magnesium Ore Vein": {
+        "template": {"type": "fractal", "generator": "large-vein", "sparse": true},
+        "block": [ 
+		    {
+                "name": "Metallurgy:utility.ore",
+				"metadata": 3,
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:utility.block",
+				"metadata": 3,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block4",
+				"metadata": 4,
+                "weight": 10
+			}
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "clusterSize": 36,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 2,
+		"maxHeight": 60,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },	
+	
+	"Bitumen Ore Vein": {
+        "template": {"type": "fractal", "generator": "large-vein", "sparse": true},
+        "block": [ 
+		    {
+                "name": "Metallurgy:utility.ore",
+				"metadata": 4,
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:utility.block",
+				"metadata": 4,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block4",
+				"metadata": 5,
+                "weight": 10
+			}
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "clusterSize": 28,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 2,
+		"maxHeight": 60,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },	
+	
+	"Potash Ore Vein": {
+        "template": {"type": "fractal", "generator": "large-vein", "sparse": true},
+        "block": [ 
+		    {
+                "name": "Metallurgy:utility.ore",
+				"metadata": 5,
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:utility.block",
+				"metadata": 5,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block4",
+				"metadata": 6,
+                "weight": 10
+			}
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "clusterSize": 40,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 2,
+		"maxHeight": 60,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },	
+	
+	"Manganese Ore Vein": {
+        "template": {"type": "fractal", "generator": "large-vein", "sparse": true},
+        "block": [ 
+		     {
+                "name": "Metallurgy:base.ore",
+				"metadata": 2,
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:base.block",
+				"metadata": 2,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block2",
+				"metadata": 8,
+                "weight": 10
+			}
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "clusterSize": 36,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 2,
+		"maxHeight": 60,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    }
+}	

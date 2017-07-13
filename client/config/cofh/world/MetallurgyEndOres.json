@@ -19,8 +19,8 @@
 		"material": "minecraft:end_stone",
         "clusterSize": 8,
         "numClusters": 8,
-        "minHeight": 0,
-        "maxHeight": 128,
+        "minHeight": 2,
+        "maxHeight": 130,
         "retrogen": "true",
         "biomeRestriction": "none",
          "biomes": [
@@ -54,8 +54,8 @@
 		"material": "minecraft:end_stone",
         "clusterSize": 10,
         "numClusters": 8,
-        "minHeight": 0,
-        "maxHeight": 128,
+        "minHeight": 2,
+        "maxHeight": 130,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [

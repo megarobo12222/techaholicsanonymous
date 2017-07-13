@@ -1,0 +1,107 @@
+{
+
+"Sulfur Ore Spikes": {
+        "template": {
+            "type": "uniform",
+            "generator": "spike",
+            "minHeight": 4,
+            "heightVariance": 3,
+            "sizeVariance": 1,
+            "positionVariance": 1,
+            "largeSpikes": "true",
+            "largeSpikeChance": 7,
+            "minLargeSpikeHeightGain": 3,
+            "largeSpikeHeightVariance": 3,
+            "largeSpikeFillerSize": 0
+        },
+        "block": [
+            {
+			    "name": "Railcraft:ore",
+                "weight": 60
+			},
+			{
+                "name": "denseores:block0",
+				"metadata": 11,
+                "weight": 40
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 3,
+        "minHeight": 83,
+        "chunkChance": 150,
+        "maxHeight": 100,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Saltpeter Ore Spikes": {
+        "template": {
+            "type": "uniform",
+            "generator": "spike",
+            "minHeight": 4,
+            "heightVariance": 3,
+            "sizeVariance": 1,
+            "positionVariance": 1,
+            "largeSpikes": "true",
+            "largeSpikeChance": 7,
+            "minLargeSpikeHeightGain": 3,
+            "largeSpikeHeightVariance": 3,
+            "largeSpikeFillerSize": 0
+        },
+        "block": [
+            {
+			    "name": "Railcraft:ore",
+				"metadata": 1,
+                "weight": 60
+			},
+			{
+                "name": "denseores:block0",
+				"metadata": 12,
+                "weight": 40
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 3,
+        "minHeight": 83,
+        "chunkChance": 150,
+        "maxHeight": 100,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    }
+}	

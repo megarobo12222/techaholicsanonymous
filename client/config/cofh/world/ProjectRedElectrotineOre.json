@@ -5,9 +5,9 @@
         "block": [
             {
                 "name": "denseores:block6",
-	        "metadata": 9,
+	            "metadata": 9,
                 "weight": 10
-	    },
+	        },
             {
                 "name": "ProjRed|Exploration:projectred.exploration.stone",
                 "metadata": 11,
@@ -20,23 +20,22 @@
             }
         ],
         "material": [
-		{   
+		       {   
                 "name": "minecraft:stone"
                 }
 		],		
         "clusterSize": 5,
         "numClusters": 7,
-        "minHeight": 1,
-        "maxHeight": 20,
+        "minHeight": 2,
+        "maxHeight": 21,
 	      "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
-		-1,
-	       1,
-	      -100
+		     -1,
+	          1,
+	         -100
         ]
-    }
-	
+    }	
 }

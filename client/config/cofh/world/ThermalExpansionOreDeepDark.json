@@ -1,0 +1,439 @@
+ {
+ 
+ "Copper Ore Vein": {
+        "template": {"type": "fractal", "generator": "large-vein", "sparse": true},
+        "block": [ 
+		    {
+				"name": "ThermalFoundation:Ore",
+				"weight": 60
+			},
+			{
+				"name": "ThermalFoundation:Storage",
+				"weight": 15
+			},
+			{
+				"name": "denseores:block1",
+				"metadata": 15,
+				"weight": 25
+			}
+        ],
+       "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "clusterSize": 40,
+        "numClusters": 1,
+        "chunkChance": 25,
+        "minHeight": 35,
+		"maxHeight": 70,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+ "Tin Ore Vein": {
+        "template": {"type": "fractal", "generator": "large-vein", "sparse": true},
+        "block": [ 
+		    {
+				"name": "ThermalFoundation:Ore",
+				"metadata": 1,
+				"weight": 60
+			},
+			{
+				"name": "ThermalFoundation:Storage",
+				"metadata": 1,
+				"weight": 15
+			},
+			{
+				"name": "denseores:block2",
+				"weight": 25
+			}
+        ],
+       "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "clusterSize": 36,
+        "numClusters": 1,
+        "chunkChance": 25,
+        "minHeight": 25,
+		"maxHeight": 45,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+ "Ferrous Ore Spikes": {
+        "template": {
+            "type": "uniform",
+            "generator": "spike",
+            "minHeight": 3,
+            "heightVariance": 2,
+            "sizeVariance": 1,
+            "positionVariance": 1,
+            "largeSpikes": "true",
+            "largeSpikeChance": 5,
+            "minLargeSpikeHeightGain": 3,
+            "largeSpikeHeightVariance": 3,
+            "largeSpikeFillerSize": 0
+        },
+        "block": [
+           {
+			    "name": "ThermalFoundation:Ore",
+				"metadata": 4,
+                "weight": 60
+			 },
+			 {
+                "name": "ThermalFoundation:Storage",
+				"metadata": 4,
+                "weight": 15
+            },
+			{
+                "name": "denseores:block2",
+				"metadata": 3,
+                "weight": 25
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 2,
+        "minHeight": 83,
+        "chunkChance": 150,
+        "maxHeight": 100,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Mana Infused Ore Geode": {
+        "enabled": false,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+           "crust": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+        "block": [ 
+		    {
+			    "name": "ThermalFoundation:Ore",
+				"metadata": 6,
+                "weight": 60
+			 },
+			 {
+                "name": "ThermalFoundation:Storage",
+				"metadata": 6,
+                "weight": 15
+            },
+			{
+                "name": "denseores:block2",
+				"metadata": 5,
+                "weight": 25
+			}
+			],
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 30,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 20, 
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    },
+	
+	"Shiny Ore Geode": {
+        "enabled": false,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+           "crust": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+        "block": [ 
+		     {
+			    "name": "ThermalFoundation:Ore",
+				"metadata": 4,
+                "weight": 60
+			 },
+			 {
+                "name": "ThermalFoundation:Storage",
+				"metadata": 4,
+                "weight": 15
+            },
+			{
+                "name": "denseores:block2",
+				"metadata": 4,
+                "weight": 25
+			}
+			],
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 30,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 20, 
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    },
+	
+	"Silver Ore Geode": {
+        "enabled": false,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+           "crust": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+        "block": [ 
+		     {
+			    "name": "ThermalFoundation:Ore",
+				"metadata": 2,
+                "weight": 60
+			 },
+			 {
+                "name": "ThermalFoundation:Storage",
+				"metadata": 2,
+                "weight": 15
+            },
+			{
+                "name": "denseores:block2",
+				"metadata": 1,
+                "weight": 25
+			}
+			],
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 30,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 20, 
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    },
+	
+	"Lead Ore Spikes": {
+        "template": {
+            "type": "uniform",
+            "generator": "spike",
+            "minHeight": 3,
+            "heightVariance": 2,
+            "sizeVariance": 1,
+            "positionVariance": 1,
+            "largeSpikes": "true",
+            "largeSpikeChance": 5,
+            "minLargeSpikeHeightGain": 3,
+            "largeSpikeHeightVariance": 3,
+            "largeSpikeFillerSize": 0
+        },
+        "block": [
+           {
+			    "name": "ThermalFoundation:Ore",
+				"metadata": 3,
+                "weight": 60
+			 },
+			 {
+                "name": "ThermalFoundation:Storage",
+				"metadata": 3,
+                "weight": 15
+            },
+			{
+                "name": "denseores:block2",
+				"metadata": 2,
+                "weight": 25
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 2,
+        "minHeight": 83,
+        "chunkChance": 150,
+        "maxHeight": 100,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    }
+}	

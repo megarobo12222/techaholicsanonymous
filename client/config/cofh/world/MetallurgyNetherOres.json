@@ -7,7 +7,7 @@
                 "name": "Metallurgy:nether.ore",
                 "weight": 85
 			},
-			 {
+			{
                 "name": "Metallurgy:nether.block",
                 "weight": 5
             },
@@ -46,7 +46,7 @@
 				"metadata": 1,
                 "weight": 85
 			},
-			 {
+			{
                 "name": "Metallurgy:nether.block",
 				"metadata": 1,
                 "weight": 5
@@ -86,7 +86,7 @@
 				"metadata": 2,
                 "weight": 85
 			},
-			 {
+			{
                 "name": "Metallurgy:nether.block",
 				"metadata": 2,
                 "weight": 5
@@ -126,7 +126,7 @@
 				"metadata": 3,
                 "weight": 85
 			},
-			 {
+			{
                 "name": "Metallurgy:nether.block",
 				"metadata": 3,
                 "weight": 5
@@ -166,7 +166,7 @@
 				"metadata": 4,
                 "weight": 85
 			},
-			 {
+			{
                 "name": "Metallurgy:nether.block",
 				"metadata": 4,
                 "weight": 5
@@ -206,7 +206,7 @@
 				"metadata": 5,
                 "weight": 85
 			},
-			 {
+			{
                 "name": "Metallurgy:nether.block",
 				"metadata": 5,
                 "weight": 5
@@ -246,7 +246,7 @@
 				"metadata": 6,
                 "weight": 85
 			},
-			 {
+			{
                 "name": "Metallurgy:nether.block",
 				"metadata": 6,
                 "weight": 5
@@ -286,7 +286,7 @@
 				"metadata": 7,
                 "weight": 85
 			},
-			 {
+			{
                 "name": "Metallurgy:nether.block",
 				"metadata": 7,
                 "weight": 5
@@ -326,7 +326,7 @@
 				"metadata": 8,
                 "weight": 85
 			},
-			 {
+			{
                 "name": "Metallurgy:nether.block",
 				"metadata": 8,
                 "weight": 5
@@ -366,7 +366,7 @@
 				"metadata": 9,
                 "weight": 85
 			},
-			 {
+			{
                 "name": "Metallurgy:nether.block",
 				"metadata": 9,
                 "weight": 5
@@ -427,7 +427,7 @@
 		],		
         "clusterSize": 10,
         "numClusters": 8,
-        "minHeight": 0,
+        "minHeight": 2,
         "maxHeight": 256,
         "retrogen": "true",
         "biomeRestriction": "none",

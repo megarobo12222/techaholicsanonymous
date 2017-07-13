@@ -278,7 +278,7 @@
 				"metadata": 11,
                 "weight": 85
 			},
-			 {
+			{
                 "name": "Metallurgy:fantasy.block",
 				"metadata": 11,
                 "weight": 5
@@ -317,7 +317,7 @@
 				"metadata": 13,
                 "weight": 85
 			},
-			 {
+			{
                 "name": "Metallurgy:fantasy.block",
 				"metadata": 13,
                 "weight": 5
@@ -348,7 +348,6 @@
         ]
 	},
 	
-	
    "Atlarus Ore": {
         "template": "uniform",
         "block": [
@@ -357,7 +356,7 @@
 				"metadata": 14,
                 "weight": 85
 			},
-			 {
+			{
                 "name": "Metallurgy:fantasy.block",
 				"metadata": 14,
                 "weight": 5

@@ -1,0 +1,243 @@
+{
+
+"Cinnabar Ore Geode": {
+        "enabled": false,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+           "crust": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+        "block": [ 
+		    {
+			    "name": "Thaumcraft:blockCustomOre",
+                "weight": 60
+			},
+			{
+                "name": "denseores:block1",
+				"metadata": 1,
+                "weight": 40
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 10,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 40, 
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    },
+	
+	"Amber Bearing Stone Ore Geode": {
+        "enabled": false,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+           "crust": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+        "block": [ 
+		    {
+			    "name": "Thaumcraft:blockCustomOre",
+                "weight": 60
+			},
+			{
+                "name": "denseores:block1",
+				"metadata": 2,
+                "weight": 40
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 10,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 40, 
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    },
+	
+	"Mixed Shard Ore Spikes": {
+        "template": {
+            "type": "uniform",
+            "generator": "spike",
+            "minHeight": 5,
+            "heightVariance": 3,
+            "sizeVariance": 2,
+            "positionVariance": 2,
+            "largeSpikes": "true",
+            "largeSpikeChance": 8,
+            "minLargeSpikeHeightGain": 3,
+            "largeSpikeHeightVariance": 3,
+            "largeSpikeFillerSize": 0
+        },
+        "block": [
+		     {
+			    "name": "Thaumcraft:blockCustomOre",
+				"metadata": 1,
+                "weight": 10
+			 },
+			 {
+			    "name": "Thaumcraft:blockCrystal",
+                "weight": 5
+			 },
+			 {
+			    "name": "Thaumcraft:blockCustomOre",
+				"metadata": 2,
+                "weight": 10
+			},	
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 1,
+                "weight": 10
+			},
+			{
+			    "name": "Thaumcraft:blockCustomOre",
+				"metadata": 3,
+                "weight": 10
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 2,
+                "weight": 5
+			},
+			{
+			    "name": "Thaumcraft:blockCustomOre",
+				"metadata": 4,
+                "weight": 10
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 3,
+                "weight": 5
+			},
+			{
+			    "name": "Thaumcraft:blockCustomOre",
+				"metadata": 5,
+                "weight": 10
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 4,
+                "weight": 5
+			},
+			{
+			    "name": "Thaumcraft:blockCustomOre",
+				"metadata": 6,
+                "weight": 10
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 5,
+                "weight": 5
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 6,
+                "weight": 10
+			}
+			],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 3,
+        "minHeight": 83,
+        "chunkChance": 150,
+        "maxHeight": 100,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    }	
+}	

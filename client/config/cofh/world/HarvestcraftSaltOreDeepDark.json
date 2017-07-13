@@ -1,0 +1,51 @@
+ {
+ 
+ "Salt Ore Vein": {
+        "template": {"type": "fractal", "generator": "large-vein", "sparse": true},
+        "block": [ 
+		    {
+				"name": "harvestcraft:salt",
+				"weight": 60
+			},
+			{
+				"name": "harvestcraft:spamcompressedsaltBlockalt",
+				"weight": 15
+			},
+			{
+				"name": "denseores:block0",
+				"metadata": 8,
+				"weight": 25
+			}
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "clusterSize": 24,
+        "numClusters": 1,
+        "chunkChance": 25,
+        "minHeight": 2,
+		"maxHeight": 130,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    }
+}	

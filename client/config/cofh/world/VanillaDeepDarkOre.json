@@ -1,0 +1,477 @@
+{
+    "Iron Ore Vein": {
+        "template": {"type": "fractal", "generator": "large-vein", "sparse": true},
+        "block": [ 
+		    {
+                "name": "denseores:block0",
+                "weight": 20
+			},
+			{
+			    "name": "minecraft:iron_block",
+                "weight": 17
+			},
+			{
+                "name": "minecraft:iron_ore",
+                "weight": 60
+            },
+			{
+                "name": "additionalcompression:compressed_ingotiron",
+                "metadata": 1,
+                "weight": 2
+			},
+		    {
+                "name": "additionalcompression:compressed_ingotiron",
+                "metadata": 2,
+                "weight": 1
+			}
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "clusterSize": 40,
+        "numClusters": 1,
+        "chunkChance": 20,
+        "minHeight": 15,
+		"maxHeight": 70,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Redstone Ore Vein": {
+        "template": {"type": "fractal", "generator": "large-vein", "sparse": true},
+        "block": [ 
+		    {
+                "name": "denseores:block0",
+				"metadata": 5,
+                "weight": 20
+			},
+			{
+			    "name": "minecraft:redstone_block",
+                "weight": 17
+			},
+			{
+                "name": "minecraft:redstone_ore",
+                "weight": 60
+            },
+			{
+                "name": "additionalcompression:compressed_dustredstone",
+                "metadata": 1,
+                "weight": 2
+			},
+		    {
+                "name": "additionalcompression:compressed_dustredstone",
+                "metadata": 2,
+                "weight": 1
+			}
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "clusterSize": 35,
+        "numClusters": 1,
+        "chunkChance": 20,
+        "minHeight": 2,
+		"maxHeight": 31,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+ "Gold Ore Spikes": {
+        "template": {
+            "type": "uniform",
+            "generator": "spike",
+            "minHeight": 3,
+            "heightVariance": 2,
+            "sizeVariance": 1,
+            "positionVariance": 1,
+            "largeSpikes": "true",
+            "largeSpikeChance": 5,
+            "minLargeSpikeHeightGain": 3,
+            "largeSpikeHeightVariance": 3,
+            "largeSpikeFillerSize": 0
+        },
+        "block": [
+            {
+                "name": "denseores:block0",
+				"metadata": 1,
+                "weight": 20
+			},
+			{
+			    "name": "minecraft:gold_block",
+                "weight": 17
+			},
+			{
+                "name": "minecraft:gold_ore",
+                "weight": 60
+            },
+			{
+                "name": "additionalcompression:compressed_ingotgold",
+                "metadata": 1,
+                "weight": 2
+			},
+		    {
+                "name": "additionalcompression:compressed_ingotgold",
+                "metadata": 2,
+                "weight": 1
+			}
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 2,
+        "minHeight": 83,
+        "chunkChance": 150,
+        "maxHeight": 100,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	 "Coal Ore Spikes": {
+        "template": {
+            "type": "uniform",
+            "generator": "spike",
+            "minHeight": 8,
+            "heightVariance": 8,
+            "sizeVariance": 4,
+            "positionVariance": 4,
+            "largeSpikes": "true",
+            "largeSpikeChance": 10,
+            "minLargeSpikeHeightGain": 10,
+            "largeSpikeHeightVariance": 10,
+            "largeSpikeFillerSize": 0
+        },
+        "block": [
+		    {
+                "name": "denseores:block0",
+                "metadata": 6,
+                "weight": 45
+			},
+			{
+			    "name": "minecraft:coal_block",
+                "weight": 20
+				},
+			 {
+                "name": "minecraft:coal_ore",
+                "weight": 30
+            }
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 4,
+        "minHeight": 83,
+        "chunkChance": 100,
+        "maxHeight": 100,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Diamond Ore Geode": {
+        "enabled": true,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+            "crust": [
+                {
+                "name": "minecraft:obsidian",
+                "weight": 100
+            }
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+            {
+                "name": "minecraft:obsidian",
+                "weight": 100
+            }
+            ],
+        "block": [ 
+		    {
+                "name": "denseores:block0",
+                "metadata": 3,
+                "weight": 20
+			},
+			{
+			    "name": "minecraft:diamond_block",
+                "weight": 17
+			},
+			{
+                "name": "minecraft:diamond_ore",
+                "weight": 60
+            },
+			{
+                "name": "additionalcompression:compressed_gemdiamond",
+                "metadata": 1,
+                "weight": 2
+			},
+		    {
+                "name": "additionalcompression:compressed_gemdiamond",
+                "metadata": 2,
+                "weight": 1
+			}
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 30,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 20, 
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    },
+	
+	"Lapis Ore Geode": {
+        "enabled": true,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+           "crust": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+        "block": [ 
+		    {
+                "name": "denseores:block0",
+                "metadata": 2,
+                "weight": 20
+			},
+			{
+			    "name": "minecraft:lapis_block",
+                "weight": 17
+			},
+			{
+                "name": "minecraft:lapis_ore",
+                "weight": 60
+            },
+			{
+                "name": "additionalcompression:compressed_gemlapis",
+                "metadata": 1,
+                "weight": 2
+			},
+		    {
+                "name": "additionalcompression:compressed_gemlapis",
+                "metadata": 2,
+                "weight": 1
+			}
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 36,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 20, 
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    },
+	
+	"Emerald Ore Geode": {
+        "enabled": true,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+            "crust": [
+            {
+                "name": "minecraft:stained_glass",
+				"metadata": 13,
+                "weight": 50
+            },
+			{
+                "name": "minecraft:stained_glass",
+				"metadata": 5,
+                "weight": 50
+            }
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+             {
+                "name": "minecraft:stained_glass",
+				"metadata": 13,
+                "weight": 50
+            },
+			  {
+                "name": "minecraft:stained_glass",
+				"metadata": 5,
+                "weight": 50
+            }
+            ],
+        "block": [ 
+		    {
+                "name": "denseores:block0",
+                "metadata": 4,
+                "weight": 20
+			},
+			{
+			    "name": "minecraft:emerald_block",
+                "weight": 17
+			},
+			{
+                "name": "minecraft:emerald_ore",
+                "weight": 60
+            },
+			{
+                "name": "additionalcompression:compressed_gememerald",
+                "metadata": 1,
+                "weight": 2
+			},
+		    {
+                "name": "additionalcompression:compressed_gememerald",
+                "metadata": 2,
+                "weight": 1
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 12,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 20,
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+ {
+ 
+ "Electrotine Ore Vein": {
+        "template": {"type": "fractal", "generator": "large-vein", "sparse": true},
+        "block": [ 
+		    {
+				"name": "ProjRed|Exploration:projectred.exploration.ore",
+                "metadata": 6,
+				"weight": 60
+			},
+			{
+				"name": "ProjRed|Exploration:projectred.exploration.stone",
+                "metadata": 11,
+				"weight": 15
+			},
+			{
+				"name": "denseores:block6",
+	            "metadata": 9,
+				"weight": 25
+			}
+        ],
+         "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "clusterSize": 20,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 2,
+		"maxHeight": 30,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    }
+}	

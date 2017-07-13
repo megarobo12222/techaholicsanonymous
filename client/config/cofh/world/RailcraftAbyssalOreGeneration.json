@@ -1,6 +1,6 @@
  {
  
- "Diamond Geode": {
+ "Dark Diamond Ore Geode": {
         "enabled": true,
         "template": {
             "type": "uniform",
@@ -47,11 +47,11 @@
             "minecraft:lava",
             "minecraft:air"
         ],
-        "numClusters": 2,
+        "numClusters": 1,
         "clusterSize": 10,
-        "minHeight": 0,
-        "maxHeight": 256,
-        "chunkChance": 800,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 350,
         "retrogen": true,
         "biomeRestriction": "none",
         "biomes": [],
@@ -62,7 +62,7 @@
         ]
     },
 	
-	"Emerald Geode": {
+	"Dark Emerald Ore Geode": {
         "enabled": true,
         "template": {
             "type": "uniform",
@@ -109,11 +109,11 @@
             "minecraft:lava",
             "minecraft:air"
         ],
-        "numClusters": 2,
+        "numClusters": 1,
         "clusterSize": 10,
-        "minHeight": 0,
-        "maxHeight": 256,
-        "chunkChance": 800,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 350,
         "retrogen": true,
         "biomeRestriction": "none",
         "biomes": [],
@@ -124,7 +124,7 @@
         ]
     },
 	
-	"Lapis Geode": {
+	"Dark Lapis Ore Geode": {
         "enabled": true,
         "template": {
             "type": "uniform",
@@ -171,11 +171,11 @@
             "minecraft:lava",
             "minecraft:air"
         ],
-        "numClusters": 2,
+        "numClusters": 1,
         "clusterSize": 10,
-        "minHeight": 0,
-        "maxHeight": 256,
-        "chunkChance": 800,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 350,
         "retrogen": true,
         "biomeRestriction": "none",
         "biomes": [],
