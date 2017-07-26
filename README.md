@@ -31,6 +31,7 @@ Below are the mods that are installed so far
 - Binnie Mods
 - Binnie Patcher
 - Biomes O' Plenty
+- Blood Magic
 - BoP Tweaks
 - Botania
 - Botanical Addons
