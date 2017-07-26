@@ -1,0 +1,233 @@
+{
+
+"Huge Wheat Tree": {
+	"template": {"type": "uniform", "generator": "small-tree", "genMaterial": "air", "leaves": { "name": "minecraft:hay_block"}, "minHeight": 8, "heightVariance": 4, "treeChecks": "false", "relaxedGrowth": "false", "waterLoving": "false", "leafVariance": "true"},
+        "block": [
+            {
+			 "name": "additionalcompression:compressed_cropwheat",
+			 "metadata": 1,
+			 "weight":60
+			},
+            {
+			 "name": "additionalcompression:compressed_cropwheat", 
+			 "metadata": 2,
+			 "weight":40
+			}
+        ],
+        "material": [
+			"minecraft:cobblestone"      
+        ],
+        "numClusters": 1,
+		"clusterSize": 1,
+        "minHeight": 83,
+        "chunkChance": 70,
+        "maxHeight": 84,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Apple Tree": {
+        "template": {"type": "uniform", "generator": "small-tree", "genMaterial": "air", "leaves": {"name": "additionalcompression:compressed_cropapple"}, "minHeight": 8, "heightVariance": 4, "treeChecks": "false", "relaxedGrowth": "false", "waterLoving": "false", "leafVariance": "true"},
+        "block": [
+            {
+			 "name": "additionalcompression:compressed_cropapple",
+			 "metadata": 1,
+			 "weight":60
+			},
+            {
+			 "name": "additionalcompression:compressed_cropapple", 
+			 "metadata": 2,
+			 "weight":40
+			}
+        ],
+        "material": [
+			"minecraft:cobblestone"      
+        ],
+        "numClusters": 1,
+		"clusterSize": 1,
+        "minHeight": 83,
+        "chunkChance": 70,
+        "maxHeight": 84,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Potato Tree": {
+       "template": {"type": "uniform", "generator": "small-tree", "genMaterial": "air", "leaves": {"name": "additionalcompression:compressed_croppotato"}, "minHeight": 8, "heightVariance": 4, "treeChecks": "false", "relaxedGrowth": "false", "waterLoving": "false", "leafVariance": "true"},
+        "block": [
+            {
+			 "name": "additionalcompression:compressed_croppotato",
+			 "metadata": 1,
+			 "weight":60
+			},
+            {
+			 "name": "additionalcompression:compressed_croppotato", 
+			 "metadata": 2,
+			 "weight":40
+			}
+        ],
+        "material": [
+			"minecraft:cobblestone"      
+        ],
+        "numClusters": 1,
+		"clusterSize": 1,
+        "minHeight": 83,
+        "chunkChance": 70,
+        "maxHeight": 84,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Carrot Tree": {
+        "template": {"type": "uniform", "generator": "small-tree", "genMaterial": "air", "leaves": {"name": "additionalcompression:compressed_cropcarrot"}, "minHeight": 8, "heightVariance": 4, "treeChecks": "false", "relaxedGrowth": "false", "waterLoving": "false", "leafVariance": "true"},
+        "block": [
+            {
+			 "name": "additionalcompression:compressed_cropcarrot",
+			 "metadata": 1,
+			 "weight":60
+			},
+            {
+			 "name": "additionalcompression:compressed_cropcarrot", 
+			 "metadata": 2,
+			 "weight":40
+			}
+        ],
+        "material": [
+			"minecraft:cobblestone"      
+        ],
+        "numClusters": 1,
+		"clusterSize": 1,
+        "minHeight": 83,
+        "chunkChance": 70,
+        "maxHeight": 84,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Sugar Cane Tree": {
+        "template": {"type": "uniform", "generator": "small-tree", "genMaterial": "air", "leaves": {"name": "additionalcompression:compressed_cropsugarcane"}, "minHeight": 8, "heightVariance": 4, "treeChecks": "false", "relaxedGrowth": "false", "waterLoving": "false", "leafVariance": "true"},
+        "block": [
+            {
+			 "name": "additionalcompression:compressed_cropsugarcane",
+			 "metadata": 1,
+			 "weight":60
+			},
+            {
+			 "name": "additionalcompression:compressed_cropsugarcane", 
+			 "metadata": 2,
+			 "weight":40
+			}
+        ],
+        "material": [
+			"minecraft:cobblestone"      
+        ],
+        "numClusters": 1,
+		"clusterSize": 1,
+        "minHeight": 83,
+        "chunkChance": 70,
+        "maxHeight": 84,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },	
+
+"Huge Netherwart Tree": {
+        "template": {"type": "uniform", "generator": "small-tree", "genMaterial": "air", "leaves": {"name": "additionalcompression:compressed_cropnetherwart"}, "minHeight": 8, "heightVariance": 4, "treeChecks": "false", "relaxedGrowth": "false", "waterLoving": "false", "leafVariance": "true"},
+        "block": [
+            {
+			 "name": "additionalcompression:compressed_cropnetherwart",
+			 "metadata": 1,
+			 "weight":60
+			},
+            {
+			 "name": "additionalcompression:compressed_cropnetherwart", 
+			 "metadata": 2,
+			 "weight":40
+			}
+        ],
+        "material": [
+			"minecraft:cobblestone"      
+        ],
+        "numClusters": 1,
+		"clusterSize": 1,
+        "minHeight": 83,
+        "chunkChance": 70,
+        "maxHeight": 84,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Melon Tree": {
+        "template": {"type": "uniform", "generator": "small-tree", "genMaterial": "air", "leaves": "melon_block", "minHeight": 8, "heightVariance": 4, "treeChecks": "false", "relaxedGrowth": "false", "waterLoving": "false", "leafVariance": "true"},
+        "block": [
+            {
+			 "name": "additionalcompression:compressed_cropmelon",
+			 "metadata": 1,
+			 "weight":60
+			},
+            {
+			 "name": "additionalcompression:compressed_cropmelon", 
+			 "metadata": 2,
+			 "weight":40
+			}
+        ],
+        "material": [
+			"minecraft:cobblestone"      
+        ],
+        "numClusters": 1,
+		"clusterSize": 1,
+        "minHeight": 83,
+        "chunkChance": 70,
+        "maxHeight": 84,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    }
+}	

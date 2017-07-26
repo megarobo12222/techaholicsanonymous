@@ -1,0 +1,436 @@
+{
+   "Wheat Tree": {
+   "template": {"type": "surface", "generator": "small-tree", "genMaterial": "air", "leaves": { "name": "minecraft:hay_block"}, "minHeight": 4, "heightVariance": 2, "treeChecks": "false", "relaxedGrowth": "false", "waterLoving": "false", "leafVariance": "true"},
+        "block": [
+            {
+			 "name": "additionalcompression:compressed_cropwheat",
+			 "metadata": 1,
+			 "weight":80
+			},
+            {
+			 "name": "additionalcompression:compressed_cropwheat", 
+			 "metadata": 2,
+			 "weight":20
+			}
+        ],
+        "material": [
+		    {
+			 "name": "minecraft:sand"
+			},
+			{
+			 "name": "minecraft:grass"
+			}
+        ],
+        "clusterSize": 1,
+        "numClusters": 1,
+        "minHeight": 64,
+        "chunkChance": 100,
+        "maxHeight": 256,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+		 {
+		  "type": "dictionary", 
+		  "entry": "PLAINS"
+		 }
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+   
+
+   "Apple Tree": {
+        "template": {"type": "surface", "generator": "small-tree", "genMaterial": "air", "leaves": {"name": "additionalcompression:compressed_cropapple"}, "minHeight": 4, "heightVariance": 2, "treeChecks": "false", "relaxedGrowth": "false", "waterLoving": "false", "leafVariance": "true"},
+        "block": [
+            {
+			 "name": "additionalcompression:compressed_cropapple",
+			 "metadata": 1,
+			 "weight":80
+			},
+            {
+			 "name": "additionalcompression:compressed_cropapple", 
+			 "metadata": 2,
+			 "weight":20
+			}
+        ],
+        "material": [
+		    {
+			 "name": "minecraft:sand"
+			},
+			{
+			 "name": "minecraft:grass"
+			},
+			{
+			 "name": "minecraft:dirt",
+			 "metadata": 1
+			},
+			{
+			 "name": "minecraft:tallgrass"
+			}
+        ],
+        "clusterSize": 1,
+        "numClusters": 1,
+        "minHeight": 64,
+        "chunkChance": 100,
+        "maxHeight": 256,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+			 "type": "dictionary", 
+			 "entry": "FOREST"
+			}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	  "Potato Tree": {
+        "template": {"type": "surface", "generator": "small-tree", "genMaterial": "air", "leaves": {"name": "additionalcompression:compressed_croppotato"}, "minHeight": 4, "heightVariance": 2, "treeChecks": "false", "relaxedGrowth": "false", "waterLoving": "false", "leafVariance": "true"},
+        "block": [
+            {
+			 "name": "additionalcompression:compressed_croppotato",
+			 "metadata": 1,
+			 "weight":80
+			},
+            {
+			 "name": "additionalcompression:compressed_croppotato", 
+			 "metadata": 2,
+			 "weight":20
+			}
+        ],
+        "material": [
+		    {
+			 "name": "minecraft:sand"
+			},
+			{
+			 "name": "minecraft:grass"
+			},
+			{
+			 "name": "minecraft:dirt",
+			 "metadata": 1
+			},
+			{
+			 "name": "minecraft:stone"
+			}
+        ],
+        "clusterSize": 1,
+        "numClusters": 1,
+        "minHeight": 64,
+        "chunkChance": 100,
+        "maxHeight": 256,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+			 "type": "dictionary", 
+			 "entry": "HILLS"
+			}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+    "Carrot Tree": {
+        "template": {"type": "surface", "generator": "small-tree", "genMaterial": "air", "leaves": {"name": "additionalcompression:compressed_cropcarrot"}, "minHeight": 4, "heightVariance": 2, "treeChecks": "false", "relaxedGrowth": "false", "waterLoving": "false", "leafVariance": "true"},
+        "block": [
+            {
+			 "name": "additionalcompression:compressed_cropcarrot",
+			 "metadata": 1,
+			 "weight":80
+			},
+            {
+			 "name": "additionalcompression:compressed_cropcarrot", 
+			 "metadata": 2,
+			 "weight":20
+			}
+        ],
+        "material": [
+		    {
+			 "name": "minecraft:sand"
+			},
+			{
+			 "name": "minecraft:grass"
+			},
+			{
+			 "name": "minecraft:dirt",
+			 "metadata": 1
+			},
+			{
+			 "name": "minecraft:hardened_clay"
+			},
+			{
+			 "name": "minecraft:sand",
+			 "metadata": 1
+			},
+			{
+			 "name": "minecraft:stone"
+			}
+        ],
+        "clusterSize": 1,
+        "numClusters": 1,
+        "minHeight": 64,
+        "chunkChance": 100,
+        "maxHeight": 256,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+			  "type": "dictionary", 
+			  "entry": "MOUNTAIN"
+			}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	  "Sugar Cane Tree": {
+        "template": {"type": "surface", "generator": "small-tree", "genMaterial": "air", "leaves": {"name": "additionalcompression:compressed_cropsugarcane"}, "minHeight": 4, "heightVariance": 2, "treeChecks": "false", "relaxedGrowth": "false", "waterLoving": "false", "leafVariance": "true"},
+        "block": [
+            {
+			 "name": "additionalcompression:compressed_cropsugarcane",
+			 "metadata": 1,
+			 "weight":80
+			},
+            {
+			 "name": "additionalcompression:compressed_cropsugarcane", 
+			 "metadata": 2,
+			 "weight":20
+			}
+        ],
+        "material": [
+		    {
+			 "name": "minecraft:sand"
+			},
+			{
+			 "name": "minecraft:grass"
+			},
+			{
+			 "name": "minecraft:dirt",
+			 "metadata": 1
+			},
+			{
+			 "name": "minecraft:gravel"
+			},
+			{
+			 "name": "minecraft:sand",
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:hardDirt"
+			}
+        ],
+        "clusterSize": 1,
+        "numClusters": 1,
+        "minHeight": 64,
+        "chunkChance": 100,
+        "maxHeight": 256,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+			"type": "dictionary", 
+			"entry": "BEACH"
+			},
+			{
+			"type": "dictionary", 
+			"entry": "RIVER"
+			}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	  "Nether Wart Tree": {
+        "template": {"type": "uniform", "generator": "small-tree", "genMaterial": "air", "leaves": {"name": "additionalcompression:compressed_cropnetherwart"}, "minHeight": 4, "heightVariance": 2, "treeChecks": "false", "relaxedGrowth": "false", "waterLoving": "false", "leafVariance": "true"},
+        "block": [
+            {
+			 "name": "additionalcompression:compressed_cropnetherwart",
+			 "metadata": 1,
+			 "weight":80
+			},
+            {
+			 "name": "additionalcompression:compressed_cropnetherwart", 
+			 "metadata": 2,
+			 "weight":20
+			}
+        ],
+        "material": [
+		    {
+			 "name": "minecraft:netherrack"
+			},
+			{
+			 "name": "minecraft:soul_sand"
+			}
+        ],
+        "clusterSize": 1,
+        "numClusters": 1,
+        "minHeight": 64,
+        "chunkChance": 100,
+        "maxHeight": 256,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+			"type": "dictionary", 
+			"entry": "NETHER"
+			}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	  "Melon Tree": {
+        "template": {"type": "surface", "generator": "small-tree", "genMaterial": "air", "leaves": "melon_block", "minHeight": 4, "heightVariance": 2, "treeChecks": "false", "relaxedGrowth": "false", "waterLoving": "false", "leafVariance": "true"},
+        "block": [
+            {
+			 "name": "additionalcompression:compressed_cropmelon",
+			 "metadata": 1,
+			 "weight":80
+			},
+            {
+			 "name": "additionalcompression:compressed_cropmelon", 
+			 "metadata": 2,
+			 "weight":20
+			}
+        ],
+        "material": [
+		    {
+			 "name": "minecraft:sand"
+			},
+			{
+			 "name": "minecraft:grass"
+			},
+			{
+			 "name": "minecraft:dirt",
+			 "metadata": 1
+			},
+			{
+			 "name": "minecraft:hardened_clay"
+			},
+			{
+			 "name": "minecraft:sand",
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:hardDirt"
+			}
+        ],
+        "clusterSize": 1,
+        "numClusters": 1,
+        "minHeight": 64,
+        "chunkChance": 100,
+        "maxHeight": 256,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+			 "type": "name", 
+			 "entry": "Desert"
+			},
+            {
+			 "type": "name", 
+			 "entry": "DesertHills"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Jungle"
+			},
+			{
+			 "type": "name", 
+			 "entry": "JungleHills"
+			},
+			{
+			 "type": "name", 
+			 "entry": "JungleEdge"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Savanna"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Savanna Plateau"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Eucalyptus Forest"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Lush Desert"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Outback"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Steppe"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Tropical Rainforest"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Xeric Shrubland"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Canyon Ravine"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Oasis"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Scrubland"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Desert M"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Jungle M"
+			},
+			{
+			 "type": "name", 
+			 "entry": "JungleEdge M"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Savanna M"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Savanna Plateau M"
+			}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

@@ -1,0 +1,714 @@
+{
+
+"Huge Clay Boulder": {
+        "template": {"type": "uniform", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": [
+		    {
+                "name": "minecraft:clay",
+                "weight": 50
+            },
+			{
+                "name": "additionalcompression:compressed_clay",
+                "weight": 30
+            },
+			{
+                "name": "additionalcompression:compressed_clay",
+				"metadata": 1,
+                "weight": 10
+		    },
+			{
+                "name": "additionalcompression:compressed_clay",
+				"metadata": 2,
+                "weight": 5
+		    },
+			{
+                "name": "additionalcompression:compressed_clay",
+				"metadata": 3,
+                "weight": 3
+		    },
+			{
+                "name": "additionalcompression:compressed_clay",
+				"metadata": 4,
+                "weight": 2
+		    }
+		],
+        "material": "minecraft:cobblestone",
+        "clusterSize": 3,
+        "numClusters": 1,
+		"minHeight": 83,
+        "maxHeight": 84,
+        "chunkChance": 150,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Mossy Cobblestone Boulder": {
+        "template": {"type": "uniform", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": [
+		    {
+                "name": "minecraft:mossy_cobblestone",
+                "weight": 50
+            },
+			{
+                "name": "additionalcompression:compressed_cobblestonemossy",
+                "weight": 30
+            },
+			{
+                "name": "additionalcompression:compressed_cobblestonemossy",
+				"metadata": 1,
+                "weight": 10
+		    },
+			{
+                "name": "additionalcompression:compressed_cobblestonemossy",
+				"metadata": 2,
+                "weight": 5
+		    },
+			{
+                "name": "additionalcompression:compressed_cobblestonemossy",
+				"metadata": 3,
+                "weight": 3
+		    },
+			{
+                "name": "additionalcompression:compressed_cobblestonemossy",
+				"metadata": 4,
+                "weight": 2
+		    }
+		],
+        "material": "minecraft:cobblestone",
+        "clusterSize": 3,
+        "numClusters": 1,
+		"minHeight": 83,
+        "maxHeight": 84,
+        "chunkChance": 150,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Bread Cookie Sugar and Egg Boulder Boulder": {
+        "template": {"type": "uniform", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": [
+		    {
+                "name": "additionalcompression:compressed_bread",
+                "weight": 15
+            },
+			{
+                "name": "additionalcompression:compressed_cookie",
+                "weight": 15
+            },
+			{
+                "name": "additionalcompression:compressed_dustsugar",
+                "weight": 15
+		    },
+			{
+                "name": "additionalcompression:compressed_dustsugar",
+				"metadata": 1,
+                "weight": 10
+		    },
+			{
+                "name": "additionalcompression:compressed_dustsugar",
+				"metadata": 2,
+                "weight": 5
+		    },
+			{
+                "name": "additionalcompression:compressed_egg",
+                "weight": 15
+		    },
+			{
+                "name": "additionalcompression:compressed_egg",
+				"metadata": 1,
+                "weight": 10
+		    },
+			{
+                "name": "additionalcompression:compressed_egg",
+				"metadata": 2,
+                "weight": 5
+		    },
+			{
+                "name": "additionalcompression:compressed_egg",
+				"metadata": 3,
+                "weight": 3
+		    },
+			{
+                "name": "additionalcompression:compressed_egg",
+				"metadata": 4,
+                "weight": 2
+		    }
+		],
+        "material": "minecraft:cobblestone",
+        "clusterSize": 2,
+        "numClusters": 1,
+		"minHeight": 83,
+        "maxHeight": 84,
+        "chunkChance": 150,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Beef Chicken Porkchop Fish Boulder": {
+        "template": {"type": "uniform", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": [
+		    {
+                "name": "additionalcompression:compressed_meatbeef",
+                "weight": 15
+            },
+			{
+                "name": "additionalcompression:compressed_meatchicken",
+                "weight": 15
+            },
+			{
+                "name": "additionalcompression:compressed_meatporkchop",
+                "weight": 15
+		    },
+			{
+                "name": "additionalcompression:compressed_meatfish",
+                "weight": 15
+		    },
+			{
+                "name": "additionalcompression:compressed_meatbeef",
+				"metadata": 1,
+                "weight": 8
+		    },
+			{
+                "name": "additionalcompression:compressed_meatchicken",
+				"metadata": 1,
+                "weight": 8
+		    },
+			{
+                "name": "additionalcompression:compressed_meatporkchop",
+				"metadata": 1,
+                "weight": 8
+		    },
+			{
+                "name": "additionalcompression:compressed_meatfish",
+				"metadata": 1,
+                "weight": 8
+		    },
+			{
+                "name": "additionalcompression:compressed_meatbeef",
+				"metadata": 2,
+                "weight": 2
+		    },
+			{
+                "name": "additionalcompression:compressed_meatchicken",
+				"metadata": 2,
+                "weight": 2
+		    },
+			{
+                "name": "additionalcompression:compressed_meatporkchop",
+				"metadata": 2,
+                "weight": 2
+		    },
+			{
+                "name": "additionalcompression:compressed_meatfish",
+				"metadata": 2,
+                "weight": 2
+		    }
+		],
+        "material": "minecraft:cobblestone",
+        "clusterSize": 2,
+        "numClusters": 1,
+		"minHeight": 83,
+        "maxHeight": 84,
+        "chunkChance": 150,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Rotten Flesh Bone Spider Eye Blaze Rod Boulder": {
+        "template": {"type": "uniform", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": [
+		    {
+                "name": "additionalcompression:compressed_meatrotten",
+                "weight": 15
+            },
+			{
+                "name": "additionalcompression:compressed_bone",
+                "weight": 15
+            },
+			{
+                "name": "additionalcompression:compressed_spidereye",
+                "weight": 15
+		    },
+			{
+                "name": "additionalcompression:compressed_rodblaze",
+                "weight": 15
+		    },
+			{
+                "name": "additionalcompression:compressed_meatrotten",
+				"metadata": 1,
+                "weight": 8
+		    },
+			{
+                "name": "additionalcompression:compressed_bone",
+				"metadata": 1,
+                "weight": 8
+		    },
+			{
+                "name": "additionalcompression:compressed_spidereye",
+				"metadata": 1,
+                "weight": 8
+		    },
+			{
+                "name": "additionalcompression:compressed_rodblaze",
+				"metadata": 1,
+                "weight": 8
+		    },
+			{
+                "name": "additionalcompression:compressed_meatrotten",
+				"metadata": 2,
+                "weight": 2
+		    },
+			{
+                "name": "additionalcompression:compressed_bone",
+				"metadata": 2,
+                "weight": 2
+		    },
+			{
+                "name": "additionalcompression:compressed_spidereye",
+				"metadata": 2,
+                "weight": 2
+		    },
+			{
+                "name": "additionalcompression:compressed_rodblaze",
+				"metadata": 2,
+                "weight": 2
+		    }
+		],
+        "material": "minecraft:cobblestone",
+        "clusterSize": 2,
+        "numClusters": 1,
+		"minHeight": 83,
+        "maxHeight": 84,
+        "chunkChance": 150,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+   	"Huge Feather Leather Wood Water Bottle Boulder": {
+        "template": {"type": "uniform", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": [
+		    {
+                "name": "additionalcompression:compressed_feather",
+                "weight": 15
+            },
+			{
+                "name": "additionalcompression:compressed_leather",
+                "weight": 15
+            },
+			{
+                "name": "additionalcompression:compressed_logwood",
+                "weight": 15
+		    },
+			{
+                "name": "additionalcompression:compressed_bottlewater",
+                "weight": 25
+		    },
+			{
+                "name": "additionalcompression:compressed_feather",
+				"metadata": 1,
+                "weight": 8
+		    },
+			{
+                "name": "additionalcompression:compressed_leather",
+				"metadata": 1,
+                "weight": 8
+		    },
+			{
+                "name": "additionalcompression:compressed_logwood",
+				"metadata": 1,
+                "weight": 8
+		    },
+			{
+                "name": "additionalcompression:compressed_feather",
+				"metadata": 2,
+                "weight": 2
+		    },
+			{
+                "name": "additionalcompression:compressed_leather",
+				"metadata": 2,
+                "weight": 2
+		    },
+			{
+                "name": "additionalcompression:compressed_logwood",
+				"metadata": 2,
+                "weight": 2
+		    }
+		],
+        "material": "minecraft:cobblestone",
+        "clusterSize": 2,
+        "numClusters": 1,
+		"minHeight": 83,
+        "maxHeight": 84,
+        "chunkChance": 150,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Ender Pearl Nether Star Gunpowder Lava Buckets Boulder": {
+        "template": {"type": "uniform", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": [
+		    {
+                "name": "additionalcompression:compressed_pearlender",
+                "weight": 21
+            },
+			{
+                "name": "additionalcompression:compressed_itemnetherstar",
+                "weight": 1
+            },
+			{
+                "name": "additionalcompression:compressed_dustgunpowder",
+                "weight": 21
+		    },
+			{
+                "name": "additionalcompression:compressed_bucketlava",
+                "weight": 25
+		    },
+			{
+                "name": "additionalcompression:compressed_pearlender",
+				"metadata": 1,
+                "weight": 10
+		    },
+			{
+                "name": "additionalcompression:compressed_dustgunpowder",
+				"metadata": 1,
+                "weight": 10
+		    },
+			{
+                "name": "additionalcompression:compressed_pearlender",
+				"metadata": 2,
+                "weight": 6
+		    },
+			{
+                "name": "additionalcompression:compressed_dustgunpowder",
+				"metadata": 2,
+                "weight": 6
+		    }
+		],
+        "material": "minecraft:cobblestone",
+        "clusterSize": 2,
+        "numClusters": 1,
+		"minHeight": 83,
+        "maxHeight": 84,
+        "chunkChance": 150,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Raw Meat Plastic Cooked Meat Sugar Charcoal Coal Coke Boulder": {
+        "template": {"type": "uniform", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": [
+		    {
+                "name": "MineFactoryReloaded:brick",
+				"metadata": 12,
+                "weight": 25
+            },
+			{
+                "name": "MineFactoryReloaded:plastic",
+                "weight": 25
+            },
+			{
+                "name": "MineFactoryReloaded:brick",
+				"metadata": 13,
+                "weight": 25
+		    },
+			{
+                "name": "MineFactoryReloaded:brick",
+				"metadata": 15,
+                "weight": 25
+		    },
+			{
+                "name": "Railcraft:cube",
+                "weight": 25
+		    }
+		],
+        "material": "minecraft:cobblestone",
+        "clusterSize": 2,
+        "numClusters": 1,
+		"minHeight": 83,
+        "maxHeight": 84,
+        "chunkChance": 150,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Electrum Invar Bronze Signalum Lumium Boulder": {
+        "template": {"type": "uniform", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": [
+		    {
+                "name": "ThermalFoundation:Storage",
+				"metadata": 7,
+                "weight": 25
+            },
+			{
+                "name": "ThermalFoundation:Storage",
+				"metadata": 8,
+                "weight": 25
+            },
+			{
+                "name": "ThermalFoundation:Storage",
+				"metadata": 9,
+                "weight": 25
+		    },
+			{
+                "name": "ThermalFoundation:Storage",
+				"metadata": 10,
+                "weight": 25
+		    },
+			{
+                "name": "ThermalFoundation:Storage",
+				"metadata": 11,
+                "weight": 25
+		    }
+		],
+        "material": "minecraft:cobblestone",
+        "clusterSize": 2,
+        "numClusters": 1,
+		"minHeight": 83,
+        "maxHeight": 84,
+        "chunkChance": 150,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Enderium Compressed Salt Cyanite Graphite Blutoinum Boulder": {
+        "template": {"type": "uniform", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": [
+		    {
+                "name": "ThermalFoundation:Storage",
+				"metadata": 12,
+                "weight": 25
+            },
+			{
+                "name": "harvestcraft:spamcompressedsaltBlockalt",
+                "weight": 25
+            },
+			{
+                "name": "BigReactors:BRMetalBlock",
+				"metadata": 1,
+                "weight": 25
+		    },
+			{
+                "name": "BigReactors:BRMetalBlock",
+				"metadata": 2,
+                "weight": 25
+		    },
+			{
+                "name": "BigReactors:BRMetalBlock",
+				"metadata": 3,
+                "weight": 25
+		    }
+		],
+        "material": "minecraft:cobblestone",
+        "clusterSize": 2,
+        "numClusters": 1,
+		"minHeight": 83,
+        "maxHeight": 84,
+        "chunkChance": 150,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Lucridite Electrical Steel Energetic Alloy Vibrant Alloy Redstone Alloy Boulder": {
+        "template": {"type": "uniform", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": [
+		    {
+                "name": "BigReactors:BRMetalBlock",
+				"metadata": 4,
+                "weight": 20
+            },
+			{
+                "name": "EnderIO:blockIngotStorage",
+                "weight": 20
+            },
+			{
+                "name": "EnderIO:blockIngotStorage",
+				"metadata": 1,
+                "weight": 20
+		    },
+			{
+                "name": "EnderIO:blockIngotStorage",
+				"metadata": 2,
+                "weight": 20
+		    },
+			{
+                "name": "EnderIO:blockIngotStorage",
+				"metadata": 3,
+                "weight": 20
+		    }
+		],
+        "material": "minecraft:cobblestone",
+        "clusterSize": 2,
+        "numClusters": 1,
+		"minHeight": 83,
+        "maxHeight": 84,
+        "chunkChance": 150,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Conductive Iron Pulsating Iron Dark Steel Soularium Refined Obsidian Boulder": {
+        "template": {"type": "uniform", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": [
+		    {
+                "name": "EnderIO:blockIngotStorage",
+				"metadata": 4,
+                "weight": 25
+            },
+			{
+                "name": "EnderIO:blockIngotStorage",
+				"metadata": 5,
+                "weight": 25
+            },
+			{
+                "name": "EnderIO:blockIngotStorage",
+				"metadata": 6,
+                "weight": 25
+		    },
+			{
+                "name": "EnderIO:blockIngotStorage",
+				"metadata": 7,
+                "weight": 25
+		    },
+			{
+                "name": "Mekanism:BasicBlock",
+				"metadata": 2,
+                "weight": 25
+		    }
+		],
+        "material": "minecraft:cobblestone",
+        "clusterSize": 2,
+        "numClusters": 1,
+		"minHeight": 83,
+        "maxHeight": 84,
+        "chunkChance": 150,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    },
+	
+	"Huge Refined Glowstone Salt Nether Quartz Manuyllum Charcoal Boulder": {
+        "template": {"type": "uniform", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": [
+		    {
+                "name": "Mekanism:BasicBlock",
+				"metadata": 4,
+                "weight": 25
+            },
+			{
+                "name": "Mekanism:SaltBlock",
+                "weight": 25
+            },
+			{
+                "name": "minecraft:quartz_block",
+                "weight": 25
+		    },
+			{
+                "name": "TConstruct:MetalBlock",
+				"metadata": 2,
+                "weight": 25
+		    },
+			{
+                "name": "Metallurgy:extra.storage.block",
+                "weight": 25
+		    }
+		],
+        "material": "minecraft:cobblestone",
+        "clusterSize": 2,
+        "numClusters": 1,
+		"minHeight": 83,
+        "maxHeight": 84,
+        "chunkChance": 150,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			0
+        ]
+    }
+}		

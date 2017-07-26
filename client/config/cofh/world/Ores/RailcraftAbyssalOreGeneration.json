@@ -1,0 +1,203 @@
+ {
+ 
+ "Dark Diamond Ore Geode": {
+        "enabled": true,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+            "crust": 
+			[
+				{
+					"name": "Railcraft:cube",
+					"metadata": 6
+				}
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+                {
+                "name": "minecraft:air",
+                "weight": 100
+            }
+            ],
+        "block": [
+			{
+                "name": "Railcraft:cube",
+				"metadata": 6,
+                "weight": 85
+            },
+            {
+                "name": "Railcraft:ore",
+				"metadata": 2,
+                "weight": 8
+            },
+			{
+                "name": "minecraft:diamond_block",
+                "weight": 2
+            },
+			{
+                "name": "denseores:block0",
+				"metadata": 13,
+                "weight": 5
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+			"minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 10,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 600,
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"Dark Emerald Ore Geode": {
+        "enabled": true,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+            "crust": 
+			[
+				{
+					"name": "Railcraft:cube",
+					"metadata": 6
+				}
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+                {
+                "name": "minecraft:air",
+                "weight": 100
+            }
+            ],
+        "block": [
+			{
+                "name": "Railcraft:cube",
+				"metadata": 6,
+                "weight": 85
+            },
+            {
+                "name": "Railcraft:ore",
+				"metadata": 3,
+                "weight": 8
+            },
+			{
+                "name": "minecraft:emerald_block",
+                "weight": 2
+            },
+			{
+                "name": "denseores:block0",
+				"metadata": 14,
+                "weight": 5
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+			"minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 10,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 600,
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"Dark Lapis Ore Geode": {
+        "enabled": true,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+            "crust": 
+			[
+				{
+					"name": "Railcraft:cube",
+					"metadata": 6
+				}
+            ]
+			},
+            "hollow": "true",
+            "filler": [
+                {
+                "name": "minecraft:air",
+                "weight": 100
+            }
+            ],
+        "block": [
+            {
+                "name": "Railcraft:cube",
+				"metadata": 6,
+                "weight": 85
+            },
+			{
+                "name": "Railcraft:ore",
+				"metadata": 4,
+                "weight": 8
+            },
+			{
+                "name": "minecraft:lapis_block",
+                "weight": 2
+            },
+			{
+                "name": "denseores:block0",
+				"metadata": 15,
+                "weight": 5
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+			"minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 10,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 500,
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}	

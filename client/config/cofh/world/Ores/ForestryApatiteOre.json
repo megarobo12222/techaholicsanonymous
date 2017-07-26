@@ -1,0 +1,39 @@
+ {
+ 
+   "Apatite Ore": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "Forestry:resources",
+                "weight": 85
+			},
+			 {
+                "name": "Forestry:resourceStorage",
+                "weight": 5
+            },
+			{
+                "name": "denseores:block0",
+				"metadata": 10,
+                "weight": 10
+			}
+        ],
+        "material": [
+			{   
+                "name": "minecraft:stone"
+            }
+		],	
+        "clusterSize": 8,
+        "numClusters": 3,
+        "minHeight": 60,
+        "maxHeight": 256,
+	    "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+              -1,
+            1,
+			-100
+        ]
+    }
+}

@@ -1,0 +1,109 @@
+ {
+ 
+   "Firestone Ore": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "Railcraft:ore",
+				"metadata": 5,
+                "weight": 85
+			},
+			{
+                "name": "denseores:block1",
+                "weight": 15
+			}
+        ],
+        "material": [
+			{   
+                "name": "minecraft:netherrack"
+            },
+			{
+			 "name": "minecraft:soul_sand"
+			}
+		],		
+        "clusterSize": 2,
+        "numClusters": 3,
+        "minHeight": 20,
+        "maxHeight": 50,
+	    "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+        ]
+    },
+	
+	"Nether Sulfur Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "NetherOres:tile.netherores.ore.1",
+                "metadata": 5,				
+                "weight": 85
+            },
+			{
+                "name": "denseores:block5",
+				"metadata": 15,
+                "weight": 15
+			}
+			],
+		"material": [
+			{   
+                "name": "minecraft:netherrack"
+            },
+			{
+			 "name": "minecraft:soul_sand"
+			}
+		],		
+        "clusterSize": 10,
+        "numClusters": 8,
+        "minHeight": 64,
+        "maxHeight": 122,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	
+	"Nether Saltpeter Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "NetherOres:tile.netherores.ore.1",
+                "metadata": 14,				
+                "weight": 85
+            },
+			{
+                "name": "denseores:block6",
+				"metadata": 1,
+                "weight": 10
+			}
+			],
+		"material": [
+			{   
+                "name": "minecraft:netherrack"
+            },
+			{
+			 "name": "minecraft:soul_sand"
+			}
+		],		
+        "clusterSize": 10,
+        "numClusters": 8,
+        "minHeight": 64,
+        "maxHeight": 122,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    }
+}

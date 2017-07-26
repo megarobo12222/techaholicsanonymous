@@ -1,0 +1,412 @@
+{
+  "Milk Lake": {
+        "template": {"type": "surface", "generator": "lake", "useMaterial": "true", "outlineBlock": "minecraft:grass"},
+        "block": "MineFactoryReloaded:milk.still",
+		"material": [
+			"minecraft:grass",
+			"minecraft:dirt",
+			"minecraft:sand"
+		],
+		"clusterSize": 20,
+        "numClusters": 1,
+		"minHeight": 40,
+		"maxHeight": 128,
+        "chunkChance": 50,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+			{"type": "dictionary", "entry": "PLAINS"},
+			{"type": "dictionary", "entry": "FOREST"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+  "Petrotheum Lake": {
+        "template": {"type": "surface", "generator": "lake", "useMaterial": "true", "outlineBlock": "minecraft:sand"},
+        "block": "ThermalFoundation:FluidPetrotheum",
+		"material": [
+			"minecraft:sand"
+		],
+		"clusterSize": 20,
+        "numClusters": 1,
+		"minHeight": 40,
+		"maxHeight": 128,
+        "chunkChance": 50,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+			{"type": "dictionary", "entry": "SANDY"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+  "Cryotheum Lake": {
+        "template": {"type": "surface", "generator": "lake", "useMaterial": "true"},
+        "block": "ThermalFoundation:FluidCryotheum",
+		"material": [
+			"minecraft:grass",
+			"minecraft:dirt",
+			"minecraft:sand",
+			"minecraft:snow"
+		],
+		"clusterSize": 20,
+        "numClusters": 1,
+		"minHeight": 40,
+		"maxHeight": 128,
+        "chunkChance": 50,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+			{"type": "dictionary", "entry": "SNOWY"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"Liquid Ender Lake": {
+        "template": {"type": "uniform", "generator": "lake", "useMaterial": "true", "outlineBlock": "minecraft:obsidian"},
+        "block": "ThermalFoundation:FluidEnder",
+		"material": [
+			"minecraft:end_stone"
+		],
+		"clusterSize": 20,
+        "numClusters": 1,
+		"minHeight": 50,
+		"maxHeight": 128,
+        "chunkChance": 10,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1            
+        ]
+    },
+	
+	"Liquid Coal Lake": {
+        "template": {"type": "uniform", "generator": "lake", "useMaterial": "true", "outlineBlock": "minecraft:stone"},
+        "block": "ThermalFoundation:FluidCoal",
+		"material": [
+			"minecraft:stone",
+			"minecraft:cobblestone"
+		],
+		"clusterSize": 20,
+        "numClusters": 1,
+		"minHeight": 40,
+		"maxHeight": 70,
+        "chunkChance": 10,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"Liquid Redstone Lake ": {
+        "template": {"type": "uniform", "generator": "lake", "useMaterial": "true", "outlineBlock": "minecraft:stone"},
+        "block": "ThermalFoundation:FluidRedstone",
+		"material": [
+			"minecraft:stone",
+			"minecraft:cobblestone"
+		],
+		"clusterSize": 20,
+        "numClusters": 1,
+		"minHeight": 15,
+		"maxHeight": 40,
+        "chunkChance": 10,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"Salt Water Lake": { 
+        "template": {"type": "surface", "generator": "lake", "useMaterial": "true"},
+        "block": "Growthcraft:grccore.BlockFluidSaltWater",
+		"material": [
+			"minecraft:grass",
+			"minecraft:dirt",
+			"minecraft:sand",
+			"minecraft:gravel"
+		],
+		"clusterSize": 20,
+        "numClusters": 1,
+		"minHeight": 40,
+		"maxHeight": 128,
+        "chunkChance": 20,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+			 {"type": "dictionary", "entry": "BEACH"},
+			 {"type": "dictionary", "entry": "RIVER"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"Molten Dark Steel Lake": {
+        "template": {"type": "uniform", "generator": "lake", "useMaterial": "true", "outlineBlock": "minecraft:stone"},
+        "block": "ExtraTiC:moltenDarkSteel",
+		"material": [
+			"minecraft:stone",
+			"minecraft:cobblestone"
+		],
+		"clusterSize": 20,
+        "numClusters": 1,
+		"minHeight": 14,
+		"maxHeight": 30,
+        "chunkChance": 10,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"Molten Bedrockium Lake": {
+        "template": {"type": "uniform", "generator": "lake", "useMaterial": "true", "outlineBlock": "minecraft:bedrock"},
+        "block": "ExtraTiC:moltenBedrockium",
+		"material": [
+			"minecraft:stone",
+			"minecraft:cobblestone"
+		],
+		"clusterSize": 20,
+        "numClusters": 1,
+		"minHeight": 1,
+		"maxHeight": 11,
+        "chunkChance": 10,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"Mushroom Soup Lake": {
+        "template": {"type": "surface", "generator": "lake", "useMaterial": "true", "outlineBlock": "minecraft:grass"},
+        "block": "MineFactoryReloaded:mushroomsoup.still",
+		"material": [
+			"minecraft:grass",
+			"minecraft:dirt",
+			"minecraft:sand"
+		],
+		"clusterSize": 20,
+        "numClusters": 1,
+		"minHeight": 40,
+		"maxHeight": 128,
+        "chunkChance": 50,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+			{"type": "dictionary", "entry": "FOREST"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"Chocolate Milk Lake": {
+        "template": {"type": "surface", "generator": "lake", "useMaterial": "true"},
+        "block": "MineFactoryReloaded:chocolatemilk.still",
+		"material": [
+			{
+			 "name": "minecraft:sand"
+			},
+			{
+			 "name": "minecraft:grass"
+			},
+			{
+			 "name": "minecraft:dirt",
+			 "metadata": 1
+			},
+			{
+			 "name": "minecraft:hardened_clay"
+			},
+			{
+			 "name": "minecraft:sand",
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:hardDirt"
+			}
+		],
+		"clusterSize": 20,
+        "numClusters": 1,
+		"minHeight": 40,
+		"maxHeight": 128,
+        "chunkChance": 50,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+			{
+			 "type": "name", 
+			 "entry": "Desert"
+			},
+            {
+			 "type": "name", 
+			 "entry": "DesertHills"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Jungle"
+			},
+			{
+			 "type": "name", 
+			 "entry": "JungleHills"
+			},
+			{
+			 "type": "name", 
+			 "entry": "JungleEdge"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Savanna"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Savanna Plateau"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Eucalyptus Forest"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Lush Desert"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Outback"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Steppe"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Tropical Rainforest"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Xeric Shrubland"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Canyon Ravine"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Oasis"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Scrubland"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Desert M"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Jungle M"
+			},
+			{
+			 "type": "name", 
+			 "entry": "JungleEdge M"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Savanna M"
+			},
+			{
+			 "type": "name", 
+			 "entry": "Savanna Plateau M"
+			}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"Meat Lake": {
+        "template": {"type": "surface", "generator": "lake", "useMaterial": "true", "outlineBlock": "minecraft:hardened_clay"},
+        "block": "MineFactoryReloaded:meat.still",
+		"material": [
+			"minecraft:grass",
+			"minecraft:dirt",
+			"minecraft:sand"
+		],
+		"clusterSize": 20,
+        "numClusters": 1,
+		"minHeight": 40,
+		"maxHeight": 128,
+        "chunkChance": 50,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+			{"type": "dictionary", "entry": "MESA"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"Essence Lake": {
+        "template": {"type": "surface", "generator": "lake", "useMaterial": "true", "outlineBlock": "minecraft:grass"},
+        "block": "MineFactoryReloaded:mobessence.still",
+		"material": [
+			"minecraft:grass",
+			"minecraft:dirt",
+			"minecraft:sand",
+			"minecraft:stone"
+		],
+		"clusterSize": 20,
+        "numClusters": 1,
+		"minHeight": 40,
+		"maxHeight": 128,
+        "chunkChance": 60,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+			{"type": "dictionary", "entry": "HILLS"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}	

@@ -1,0 +1,76 @@
+{
+
+	"Molten Ardite Lake": {
+        "template": {"type": "uniform", "generator": "lake", "useMaterial": "true", "outlineBlock": "netherrack"},
+        "block": "TConstruct:fluid.molten.ardite",
+        "material": [ 
+		  "minecraft:netherrack",
+		  "BiomesOPlenty:overgrownNetherrack",
+		  "minecraft:soul_sand",
+		  "minecraft:cobblestone",
+		  "minecraft:stone"
+		 ],
+		"clusterSize": 15,
+        "numClusters": 1,
+		"minHeight": 60,
+        "maxHeight": 120,
+        "chunkChance": 50,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            1,
+			0
+        ]
+    },
+	
+	"Molten Cobalt Lake": {
+        "template": {"type": "uniform", "generator": "lake", "useMaterial": "true", "outlineBlock": "netherrack"},
+        "block": "TConstruct:fluid.molten.cobalt",
+        "material": [ 
+		  "minecraft:netherrack",
+		  "BiomesOPlenty:overgrownNetherrack",
+		  "minecraft:soul_sand",
+		  "minecraft:cobblestone",
+		  "minecraft:stone"
+		 ],
+		"clusterSize": 15,
+        "numClusters": 1,
+		"minHeight": 2,
+        "maxHeight": 96,
+        "chunkChance": 50,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		  1,
+		  0
+        ]
+    },
+	
+	"Pyrotheum Lake": {
+        "template": {"type": "uniform", "generator": "lake", "useMaterial": "true", "outlineBlock": "minecraft:netherrack"},
+        "block": "ThermalFoundation:FluidPyrotheum",
+        "material": [ 
+		  "minecraft:netherrack",
+		  "BiomesOPlenty:overgrownNetherrack",
+		  "minecraft:soul_sand",
+		  "minecraft:cobblestone",
+		  "minecraft:stone"
+		],
+		"clusterSize": 20,
+        "numClusters": 1,
+		"minHeight": 60,
+        "maxHeight": 256,
+        "chunkChance": 30,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			-1
+        ]
+    }
+}	

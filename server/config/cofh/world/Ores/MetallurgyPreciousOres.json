@@ -1,0 +1,80 @@
+{
+
+   "Zinc Ore": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "Metallurgy:precious.ore",
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:precious.block",
+                "weight": 5
+            },
+			{
+                "name": "denseores:block3",
+				"metadata": 15,
+                "weight": 10
+			}
+        ],
+        "material": [
+			{   
+                "name": "minecraft:stone"
+            }
+		],	
+        "clusterSize": 8,
+        "numClusters": 3,
+        "minHeight": 25,
+        "maxHeight": 55,
+	    "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+              -1,
+            1,
+			-100
+        ]
+    },
+	  
+   "Platinum Ore": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "Metallurgy:precious.ore",
+				"metadata": 2,
+                "weight": 85
+			},
+			{
+                "name": "Metallurgy:precious.block",
+				"metadata": 2,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block4",
+                "weight": 10
+			}
+        ],
+        "material": [
+			{   
+                "name": "minecraft:stone"
+            },
+			{   
+                "name": "minecraft:cobblestone"
+            }
+		],	
+        "clusterSize": 8,
+        "numClusters": 3,
+        "minHeight": 80,
+        "maxHeight": 128,
+	    "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+              -1,
+            1,
+			-100
+        ]
+	}
+}	

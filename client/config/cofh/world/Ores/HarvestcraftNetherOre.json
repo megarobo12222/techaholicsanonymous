@@ -1,0 +1,44 @@
+{
+	
+	"Nether Salt Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "NetherOres:tile.netherores.ore.1",
+                "metadata": 13,				
+                "weight": 85
+            },
+			{
+                "name": "harvestcraft:spamcompressedsaltBlockalt",
+                "weight": 5
+			},
+			{
+                "name": "denseores:block6",
+                "weight": 10
+			}
+			],
+		"material": [
+			{   
+                "name": "minecraft:netherrack"
+            },
+			{
+			 "name": "minecraft:soul_sand"
+			}
+		],		
+        "clusterSize": 10,
+        "numClusters": 8,
+        "minHeight": 2,
+        "maxHeight": 130,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    }
+}	
+
+	

@@ -1,0 +1,476 @@
+{
+
+  	"Chisel Limestone Boulder": {
+        "template": {"type": "decoration", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 1},
+        "block": "chisel:limestone",
+        "material":  [
+			{   
+               "name": "minecraft:grass"
+            },
+			{
+			   "name": "minecraft:sand"
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 1
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 2
+			},
+			{
+			   "name": "minecraft:mycelium"
+			},
+			{
+			   "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 1
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 2
+			}
+		],	
+        "clusterSize": 3,
+        "numClusters": 1,
+		"minHeight": 65,
+        "maxHeight": 256,
+        "chunkChance": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+
+	 "Chisel Granite Boulder": {
+        "template": {"type": "decoration", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 1},
+        "block": "chisel:granite",
+        "material": [
+			{   
+               "name": "minecraft:grass"
+            },
+			{
+			   "name": "minecraft:sand"
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 1
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 2
+			},
+			{
+			   "name": "minecraft:mycelium"
+			},
+			{
+			   "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 1
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 2
+			}
+		],
+        "clusterSize": 3,
+        "numClusters": 1,
+		"minHeight": 65,
+        "maxHeight": 256,
+        "chunkChance": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	 "Chisel Marble Boulder": {
+        "template": {"type": "decoration", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 1},
+        "block": "chisel:marble",
+        "material": [
+			{   
+               "name": "minecraft:grass"
+            },
+			{
+			   "name": "minecraft:sand"
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 1
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 2
+			},
+			{
+			   "name": "minecraft:mycelium"
+			},
+			{
+			   "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 1
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 2
+			}
+		],
+        "clusterSize": 3,
+        "numClusters": 1,
+		"minHeight": 65,
+        "maxHeight": 256,
+        "chunkChance": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	 "Chisel Andesite Boulder": {
+        "template": {"type": "decoration", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": "chisel:andesite",
+        "material": [
+			{   
+               "name": "minecraft:grass"
+            },
+			{
+			   "name": "minecraft:sand"
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 1
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 2
+			},
+			{
+			   "name": "minecraft:mycelium"
+			},
+			{
+			   "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 1
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 2
+			}
+		],
+        "clusterSize": 3,
+        "numClusters": 1,
+		"minHeight": 65,
+        "maxHeight": 256,
+        "chunkChance": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	 "Chisel Diorite Boulder": {
+        "template": {"type": "decoration", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 1},
+        "block": "chisel:diorite",
+        "material": [
+			{   
+               "name": "minecraft:grass"
+            },
+			{
+			   "name": "minecraft:sand"
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 1
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 2
+			},
+			{
+			   "name": "minecraft:mycelium"
+			},
+			{
+			   "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 1
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 2
+			}
+		],
+        "clusterSize": 3,
+        "numClusters": 1,
+		"minHeight": 65,
+        "maxHeight": 256,
+        "chunkChance": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	 "Project Red Marble Boulder": {
+        "template": {"type": "decoration", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 1},
+        "block": [ 
+		       {    
+              	"name": "ProjRed|Exploration:projectred.exploration.stone", 
+                "weight": 100
+		       }
+		      ],
+        "material": [
+			{   
+               "name": "minecraft:grass"
+            },
+			{
+			   "name": "minecraft:sand"
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 1
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 2
+			},
+			{
+			   "name": "minecraft:mycelium"
+			},
+			{
+			   "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 1
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 2
+			}
+		],
+        "clusterSize": 3,
+        "numClusters": 1,
+		"minHeight": 65,
+        "maxHeight": 256,
+        "chunkChance": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	
+	 "Railcraft Quarried Stone Boulder": {
+        "template": {"type": "decoration", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 1},
+        "block": [ 
+		       {    
+              	"name": "Railcraft:cube", 
+				"metadata": 7,
+                "weight": 100
+		       }
+		      ],
+        "material": [
+			{   
+               "name": "minecraft:grass"
+            },
+			{
+			   "name": "minecraft:sand"
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 1
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 2
+			},
+			{
+			   "name": "minecraft:mycelium"
+			},
+			{
+			   "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 1
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 2
+			}
+		],
+        "clusterSize": 3,
+        "numClusters": 1,
+		"minHeight": 65,
+        "maxHeight": 256,
+        "chunkChance": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"Clay Boulder": {
+        "template": {"type": "decoration", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": "clay",
+        "material": [
+			{   
+               "name": "minecraft:grass"
+            },
+			{
+			   "name": "minecraft:sand"
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 1
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 2
+			},
+			{
+			   "name": "minecraft:mycelium"
+			},
+			{
+			   "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 1
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 2
+			}
+		],
+        "clusterSize": 2,
+        "numClusters": 1,
+		"minHeight": 60,
+        "maxHeight": 256,
+        "chunkChance": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"Salt Boulder": {
+        "template": {"type": "decoration", "generator": "boulder", "count": 1, "hollow": "false", "hollowSize": 0.1665, "hollowVar": 3},
+        "block": "harvestcraft:spamcompressedsaltBlockalt",
+         "material": [
+			{   
+               "name": "minecraft:grass"
+            },
+			{
+			   "name": "minecraft:sand"
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 1
+			},
+			{
+			   "name": "minecraft:dirt",
+			   "metadata": 2
+			},
+			{
+			   "name": "minecraft:mycelium"
+			},
+			{
+			   "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass"
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 1
+			},
+			{
+			   "name": "BiomesOPlenty:newBopGrass",
+			   "metadata": 2
+			}
+		],
+        "clusterSize": 2,
+        "numClusters": 1,
+		"minHeight": 60,
+        "maxHeight": 256,
+        "chunkChance": 300,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}	
+	
+	
+	

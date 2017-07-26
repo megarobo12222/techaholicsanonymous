@@ -1,0 +1,161 @@
+{
+    "Cinnabar Ore": {
+       "template": "uniform",
+        "block": [
+		    {
+			    "name": "Thaumcraft:blockCustomOre",
+                "weight": 85
+				},
+			{
+                "name": "denseores:block1",
+				"metadata": 1,
+                "weight": 15
+			}
+			],
+		"material": [
+			{   
+                "name": "minecraft:stone"
+            }
+		],		
+        "clusterSize": 2,
+        "numClusters": 4,
+        "minHeight": 2,
+        "maxHeight": 256,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+              -1,
+            1,
+			-100
+        ]
+    },
+	
+	 "Amber Bearing Stone Ore": {
+       "template": "uniform",
+        "block": [
+		    {
+			    "name": "Thaumcraft:blockCustomOre",
+				"metadata": 7, 
+                "weight": 85
+			 },
+			{
+                "name": "denseores:block1",
+				"metadata": 2,
+                "weight": 15
+			}
+			],
+		"material": [
+			{   
+                "name": "minecraft:stone"
+            }
+		],		
+        "clusterSize": 2,
+        "numClusters": 4,
+        "minHeight": 2,
+        "maxHeight": 256,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+              -1,
+            1,
+			-100
+        ]
+    },
+  
+  "Mixed Infused Ore": {
+       "template": {"type": "fractal", "generator": "large-vein", "sparse": false},
+        "block": [
+		     {
+			    "name": "Thaumcraft:blockCustomOre",
+				"metadata": 1,
+                "weight": 10
+			 },
+			 {
+			    "name": "Thaumcraft:blockCrystal",
+                "weight": 5
+			 },
+			 {
+			    "name": "Thaumcraft:blockCustomOre",
+				"metadata": 2,
+                "weight": 10
+			},	
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 1,
+                "weight": 10
+			},
+			{
+			    "name": "Thaumcraft:blockCustomOre",
+				"metadata": 3,
+                "weight": 10
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 2,
+                "weight": 5
+			},
+			{
+			    "name": "Thaumcraft:blockCustomOre",
+				"metadata": 4,
+                "weight": 10
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 3,
+                "weight": 5
+			},
+			{
+			    "name": "Thaumcraft:blockCustomOre",
+				"metadata": 5,
+                "weight": 10
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 4,
+                "weight": 5
+			},
+			{
+			    "name": "Thaumcraft:blockCustomOre",
+				"metadata": 6,
+                "weight": 10
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 5,
+                "weight": 5
+			},
+			{
+			    "name": "Thaumcraft:blockCrystal",
+				"metadata": 6,
+                "weight": 10
+			}
+			],
+		"material": [
+			{   
+                "name": "minecraft:stone"
+            }
+		],			
+        "clusterSize": 30,
+        "numClusters": 1,
+        "chunkChance": 10,
+        "minHeight": 20,
+		"maxHeight": 120,
+        "veinHeight": 32,
+        "veinDiameter": 32,
+        "verticalDensity": 15,
+        "horizontalDensity": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+               -1,
+            1,
+			-100
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+ 
+	"Nether Ruby Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "NetherOres:tile.netherores.ore.0",
+                "metadata": 13,				
+                "weight": 85
+            },
+			{
+                "name": "BiomesOPlenty:gemOre", 
+				"metadata": 3,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block5",
+				"metadata": 7,
+                "weight": 10
+			}
+			],
+		"material": [
+			{   
+                "name": "minecraft:netherrack"
+            },
+			{
+			 "name": "minecraft:soul_sand"
+			}
+		],		
+        "clusterSize": 10,
+        "numClusters": 8,
+        "minHeight": 27,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	
+	
+	"Nether Peridot Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "NetherOres:tile.netherores.ore.0",
+                "metadata": 14,				
+                "weight": 85
+            },
+			{
+                "name": "BiomesOPlenty:gemOre", 
+				"metadata": 5,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block5",
+				"metadata": 8,
+                "weight": 10
+			}
+			],
+		"material": [
+			{   
+                "name": "minecraft:netherrack"
+            },
+			{
+			 "name": "minecraft:soul_sand"
+			}
+		],		
+        "clusterSize": 10,
+        "numClusters": 8,
+        "minHeight": 27,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	
+	
+	"Nether Sapphire Ore": {
+        "template": "uniform",
+        "block": [
+			 {
+                "name": "NetherOres:tile.netherores.ore.0",
+                "metadata": 15,				
+                "weight": 85
+            },
+			{
+                "name": "BiomesOPlenty:gemOre", 
+				"metadata": 13,
+                "weight": 5
+            },
+			{
+                "name": "denseores:block5",
+				"metadata": 9,
+                "weight": 10
+			}
+			],
+		"material": [
+			{   
+                "name": "minecraft:netherrack"
+            },
+			{
+			 "name": "minecraft:soul_sand"
+			}
+		],		
+        "clusterSize": 10,
+        "numClusters": 8,
+        "minHeight": 27,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+         "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    }
+}	

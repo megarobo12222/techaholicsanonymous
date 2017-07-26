@@ -1,0 +1,146 @@
+{
+"Cobalt Ore Geode": {
+        "enabled": true,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+           "crust": [
+            {
+                "name": "chisel:hexLargePlating",
+				"metadata": 4
+            }
+            ],
+            "hollow": "true",
+            "filler": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+         "block": [
+			{
+                "name": "chisel:hexLargePlating",
+				"metadata": 4,
+				"weight": 85
+            },
+            {
+                "name": "TConstruct:SearedBrick",
+				"metadata": 1,
+                "weight": 8
+			},
+			{
+                "name": "TConstruct:MetalBlock",
+                "weight": 2
+			},
+			{
+                "name": "denseores:block2",
+				"metadata": 6,
+                "weight": 5
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 10,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 30, 
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    },
+	
+	"Ardite Ore Geode": {
+        "enabled": true,
+        "template": {
+            "type": "uniform",
+            "generator": "geode",
+           "crust": [
+            {
+                "name": "chisel:hexLargePlating",
+				"metadata": 11
+            }
+            ],
+            "hollow": "true",
+            "filler": [
+            {
+                "name": "minecraft:ice",
+                "weight": 50
+            },
+			{
+                "name": "minecraft:packed_ice",
+                "weight": 50
+            }
+            ]
+			},
+        "block": [
+			{
+                "name": "chisel:hexLargePlating",
+				"metadata": 11,
+				"weight": 85
+            },
+            {
+                "name": "TConstruct:SearedBrick",
+				"metadata": 2,
+                "weight": 8
+			},
+			{
+                "name": "TConstruct:MetalBlock",
+				"metadata": 1,
+                "weight": 2
+			},
+			{
+                "name": "denseores:block2",
+				"metadata": 7,
+                "weight": 5
+			}
+        ],
+        "material": [
+            "minecraft:stone",
+			"minecraft:cobblestone",
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:water",
+            "minecraft:lava",
+            "minecraft:flowing_water",
+            "minecraft:flowing_lava",
+            "minecraft:air"
+        ],
+        "numClusters": 1,
+        "clusterSize": 10,
+        "minHeight": 10,
+        "maxHeight": 230,
+        "chunkChance": 30, 
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+		     0,
+            -1,
+            1
+        ]
+    }
+}	
