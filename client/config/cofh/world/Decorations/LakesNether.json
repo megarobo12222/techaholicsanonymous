@@ -6,9 +6,7 @@
         "material": [ 
 		  "minecraft:netherrack",
 		  "BiomesOPlenty:overgrownNetherrack",
-		  "minecraft:soul_sand",
-		  "minecraft:cobblestone",
-		  "minecraft:stone"
+		  "minecraft:soul_sand"
 		 ],
 		"clusterSize": 15,
         "numClusters": 1,
@@ -18,10 +16,9 @@
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-            1,
-			0
+            -1
         ]
     },
 	
@@ -31,9 +28,7 @@
         "material": [ 
 		  "minecraft:netherrack",
 		  "BiomesOPlenty:overgrownNetherrack",
-		  "minecraft:soul_sand",
-		  "minecraft:cobblestone",
-		  "minecraft:stone"
+		  "minecraft:soul_sand"
 		 ],
 		"clusterSize": 15,
         "numClusters": 1,
@@ -43,10 +38,9 @@
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-		  1,
-		  0
+		  -1
         ]
     },
 	
@@ -56,9 +50,7 @@
         "material": [ 
 		  "minecraft:netherrack",
 		  "BiomesOPlenty:overgrownNetherrack",
-		  "minecraft:soul_sand",
-		  "minecraft:cobblestone",
-		  "minecraft:stone"
+		  "minecraft:soul_sand"
 		],
 		"clusterSize": 20,
         "numClusters": 1,

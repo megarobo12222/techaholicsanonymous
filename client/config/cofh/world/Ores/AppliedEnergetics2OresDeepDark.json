@@ -29,25 +29,17 @@
         "block": 
 		[
 			{
-                "name": "minecraft:ice",
-                "weight": 40
-            },
-			{
-                "name": "minecraft:packed_ice",
-                "weight": 40
-            },
-            {
                 "name": "appliedenergistics2:tile.OreQuartzCharged",
-                "weight": 11
+                "weight": 60
 			},
 			{
                 "name": "appliedenergistics2:tile.BlockFluix",
-                "weight": 2
+                "weight": 15
             },
 			{
                 "name": "denseores:block1",
 				"metadata": 13,
-                "weight": 7
+                "weight": 25
 			}
         ],
         "material": [
@@ -66,7 +58,7 @@
         "clusterSize": 10,
         "minHeight": 10,
         "maxHeight": 230,
-        "chunkChance": 40, 
+        "chunkChance": 100, 
         "retrogen": true,
         "biomeRestriction": "none",
         "biomes": [],

@@ -30,7 +30,7 @@
         ],
         "clusterSize": 40,
         "numClusters": 1,
-        "chunkChance": 25,
+        "chunkChance": 100,
         "minHeight": 35,
 		"maxHeight": 70,
         "veinHeight": 32,
@@ -80,7 +80,7 @@
         ],
         "clusterSize": 36,
         "numClusters": 1,
-        "chunkChance": 25,
+        "chunkChance": 100,
         "minHeight": 25,
 		"maxHeight": 45,
         "veinHeight": 32,
@@ -181,24 +181,19 @@
 		},
         "block": [
 			{
-                "name": "chisel:hexPlating",
-				"metadata": 6,
-				"weight": 85
-            },
-		    {
 			    "name": "ThermalFoundation:Ore",
 				"metadata": 6,
-                "weight": 8
-			 },
-			 {
+                "weight": 60
+			},
+			{
                 "name": "ThermalFoundation:Storage",
 				"metadata": 6,
-                "weight": 2
+                "weight": 15
             },
 			{
                 "name": "denseores:block2",
 				"metadata": 5,
-                "weight": 5
+                "weight": 25
 			}
         ],
         "material": [
@@ -217,7 +212,7 @@
         "clusterSize": 30,
         "minHeight": 10,
         "maxHeight": 230,
-        "chunkChance": 20, 
+        "chunkChance": 100, 
         "retrogen": true,
         "biomeRestriction": "none",
         "biomes": [],
@@ -254,24 +249,19 @@
 			},
         "block": [
 			{
-                "name": "chisel:hexPlating",
-				"metadata": 12,
-				"weight": 85
-            },
-			{
 			    "name": "ThermalFoundation:Ore",
 				"metadata": 5,
-                "weight": 8
-			},
-			{
+                "weight": 60
+			 },
+			 {
                 "name": "ThermalFoundation:Storage",
 				"metadata": 5,
-                "weight": 2
+                "weight": 15
             },
 			{
                 "name": "denseores:block2",
 				"metadata": 4,
-                "weight": 5
+                "weight": 25
 			}
 		],
         "material": [
@@ -290,7 +280,7 @@
         "clusterSize": 30,
         "minHeight": 10,
         "maxHeight": 230,
-        "chunkChance": 20, 
+        "chunkChance": 100, 
         "retrogen": true,
         "biomeRestriction": "none",
         "biomes": [],
@@ -327,24 +317,19 @@
 			},
         "block": [
 			{
-                "name": "chisel:hexPlating",
-				"metadata": 15,
-				"weight": 85
-            },		
-		    {
 			    "name": "ThermalFoundation:Ore",
 				"metadata": 2,
-                "weight": 8
+                "weight": 60
 			},
 			{
                 "name": "ThermalFoundation:Storage",
 				"metadata": 2,
-                "weight": 2
+                "weight": 15
             },
 			{
                 "name": "denseores:block2",
 				"metadata": 1,
-                "weight": 5
+                "weight": 25
 			}
         ],
         "material": [
@@ -363,7 +348,7 @@
         "clusterSize": 30,
         "minHeight": 10,
         "maxHeight": 230,
-        "chunkChance": 20, 
+        "chunkChance": 100, 
         "retrogen": true,
         "biomeRestriction": "none",
         "biomes": [],

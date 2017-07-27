@@ -25,18 +25,13 @@
 			},
         "block": [
 			{
-                "name": "chisel:hexPlating",
-				"metadata": 5,
-				"weight": 85
-            },		
-		    {
 			    "name": "Thaumcraft:blockCustomOre",
-                "weight": 9
+                "weight": 60
 			},
 			{
                 "name": "denseores:block1",
 				"metadata": 1,
-                "weight": 6
+                "weight": 40
 			}
         ],
         "material": [
@@ -55,7 +50,7 @@
         "clusterSize": 10,
         "minHeight": 10,
         "maxHeight": 230,
-        "chunkChance": 40, 
+        "chunkChance": 100, 
         "retrogen": true,
         "biomeRestriction": "none",
         "biomes": [],
@@ -92,19 +87,13 @@
 			},
         "block": [ 
 			{
-                "name": "chisel:hexPlating",
-				"metadata": 14,
-				"weight": 60
-				
-            },
-		    {
 			    "name": "Thaumcraft:blockCustomOre",
-                "weight": 9
+                "weight": 60
 			},
 			{
                 "name": "denseores:block1",
 				"metadata": 2,
-                "weight": 6
+                "weight": 40
 			}
         ],
         "material": [
@@ -123,7 +112,7 @@
         "clusterSize": 10,
         "minHeight": 10,
         "maxHeight": 230,
-        "chunkChance": 40, 
+        "chunkChance": 100, 
         "retrogen": true,
         "biomeRestriction": "none",
         "biomes": [],

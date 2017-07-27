@@ -19,6 +19,110 @@
 			},
 			{
 			 "name": "minecraft:grass"
+			},
+			      {
+			 "name": "minecraft:dirt",
+			 "metadata": 1
+			},
+			{
+			 "name": "minecraft:hardened_clay"
+			},
+			{
+			 "name": "minecraft:sand",
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:hardDirt"
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 0
+			},
+		    {
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 3
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 10
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 11
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 12
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 13
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 14
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 15
+			},
+			{
+			 "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			 "name": "minecraft:dirt", 
+			 "metadata": 2
+			},
+			{
+			 "name": "minecraft:mycelium"
+			},
+			{
+			 "name": "minecraft:stone"
+			},
+			{
+			 "name": "minecraft:snow_layer"
+			},
+			{
+			 "name": "minecraft:tallgrass"
+			},
+			{
+			 "name": "minecraft:leaves"
 			}
         ],
         "clusterSize": 1,
@@ -63,12 +167,109 @@
 			{
 			 "name": "minecraft:grass"
 			},
-			{
+			      {
 			 "name": "minecraft:dirt",
 			 "metadata": 1
 			},
 			{
+			 "name": "minecraft:hardened_clay"
+			},
+			{
+			 "name": "minecraft:sand",
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:hardDirt"
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 0
+			},
+		    {
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 3
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 10
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 11
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 12
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 13
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 14
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 15
+			},
+			{
+			 "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			 "name": "minecraft:dirt", 
+			 "metadata": 2
+			},
+			{
+			 "name": "minecraft:mycelium"
+			},
+			{
+			 "name": "minecraft:stone"
+			},
+			{
+			 "name": "minecraft:snow_layer"
+			},
+			{
 			 "name": "minecraft:tallgrass"
+			},
+			{
+			 "name": "minecraft:leaves"
 			}
         ],
         "clusterSize": 1,
@@ -112,12 +313,109 @@
 			{
 			 "name": "minecraft:grass"
 			},
-			{
+			      {
 			 "name": "minecraft:dirt",
 			 "metadata": 1
 			},
 			{
+			 "name": "minecraft:hardened_clay"
+			},
+			{
+			 "name": "minecraft:sand",
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:hardDirt"
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 0
+			},
+		    {
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 3
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 10
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 11
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 12
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 13
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 14
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 15
+			},
+			{
+			 "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			 "name": "minecraft:dirt", 
+			 "metadata": 2
+			},
+			{
+			 "name": "minecraft:mycelium"
+			},
+			{
 			 "name": "minecraft:stone"
+			},
+			{
+			 "name": "minecraft:snow_layer"
+			},
+			{
+			 "name": "minecraft:tallgrass"
+			},
+			{
+			 "name": "minecraft:leaves"
 			}
         ],
         "clusterSize": 1,
@@ -161,7 +459,7 @@
 			{
 			 "name": "minecraft:grass"
 			},
-			{
+			      {
 			 "name": "minecraft:dirt",
 			 "metadata": 1
 			},
@@ -173,7 +471,97 @@
 			 "metadata": 1
 			},
 			{
+			 "name": "BiomesOPlenty:hardDirt"
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 0
+			},
+		    {
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 3
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 10
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 11
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 12
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 13
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 14
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 15
+			},
+			{
+			 "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			 "name": "minecraft:dirt", 
+			 "metadata": 2
+			},
+			{
+			 "name": "minecraft:mycelium"
+			},
+			{
 			 "name": "minecraft:stone"
+			},
+			{
+			 "name": "minecraft:snow_layer"
+			},
+			{
+			 "name": "minecraft:tallgrass"
+			},
+			{
+			 "name": "minecraft:leaves"
 			}
         ],
         "clusterSize": 1,
@@ -217,12 +605,12 @@
 			{
 			 "name": "minecraft:grass"
 			},
-			{
+			      {
 			 "name": "minecraft:dirt",
 			 "metadata": 1
 			},
 			{
-			 "name": "minecraft:gravel"
+			 "name": "minecraft:hardened_clay"
 			},
 			{
 			 "name": "minecraft:sand",
@@ -230,6 +618,96 @@
 			},
 			{
 			 "name": "BiomesOPlenty:hardDirt"
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 0
+			},
+		    {
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 3
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 10
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 11
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 12
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 13
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 14
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 15
+			},
+			{
+			 "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			 "name": "minecraft:dirt", 
+			 "metadata": 2
+			},
+			{
+			 "name": "minecraft:mycelium"
+			},
+			{
+			 "name": "minecraft:stone"
+			},
+			{
+			 "name": "minecraft:snow_layer"
+			},
+			{
+			 "name": "minecraft:tallgrass"
+			},
+			{
+			 "name": "minecraft:leaves"
 			}
         ],
         "clusterSize": 1,
@@ -319,7 +797,7 @@
 			{
 			 "name": "minecraft:grass"
 			},
-			{
+			      {
 			 "name": "minecraft:dirt",
 			 "metadata": 1
 			},
@@ -332,6 +810,96 @@
 			},
 			{
 			 "name": "BiomesOPlenty:hardDirt"
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 0
+			},
+		    {
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:plants", 
+			 "metadata": 3
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:lilyBop", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 0
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 1
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 2
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 10
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 11
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 12
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 13
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 14
+			},
+			{
+			 "name": "BiomesOPlenty:foliage", 
+			 "metadata": 15
+			},
+			{
+			 "name": "BiomesOPlenty:cragRock"
+			},
+			{
+			 "name": "minecraft:dirt", 
+			 "metadata": 2
+			},
+			{
+			 "name": "minecraft:mycelium"
+			},
+			{
+			 "name": "minecraft:stone"
+			},
+			{
+			 "name": "minecraft:snow_layer"
+			},
+			{
+			 "name": "minecraft:tallgrass"
+			},
+			{
+			 "name": "minecraft:leaves"
 			}
         ],
         "clusterSize": 1,

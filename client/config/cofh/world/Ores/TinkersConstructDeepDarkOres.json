@@ -24,23 +24,18 @@
 			},
          "block": [
 			{
-                "name": "chisel:hexLargePlating",
-				"metadata": 4,
-				"weight": 85
+                "name": "Metallurgy:precious.ore",
+				"metadata": 2,
+                "weight": 60
+			},
+			{
+                "name": "Metallurgy:precious.block",
+				"metadata": 2,
+                "weight": 15
             },
-            {
-                "name": "TConstruct:SearedBrick",
-				"metadata": 1,
-                "weight": 8
-			},
 			{
-                "name": "TConstruct:MetalBlock",
-                "weight": 2
-			},
-			{
-                "name": "denseores:block2",
-				"metadata": 6,
-                "weight": 5
+                "name": "denseores:block4",
+                "weight": 25
 			}
         ],
         "material": [
@@ -59,7 +54,7 @@
         "clusterSize": 10,
         "minHeight": 10,
         "maxHeight": 230,
-        "chunkChance": 30, 
+        "chunkChance": 100, 
         "retrogen": true,
         "biomeRestriction": "none",
         "biomes": [],
@@ -96,24 +91,19 @@
 			},
         "block": [
 			{
-                "name": "chisel:hexLargePlating",
-				"metadata": 11,
-				"weight": 85
-            },
-            {
                 "name": "TConstruct:SearedBrick",
 				"metadata": 2,
-                "weight": 8
+                "weight": 85
 			},
 			{
                 "name": "TConstruct:MetalBlock",
 				"metadata": 1,
-                "weight": 2
+                "weight": 5
 			},
 			{
                 "name": "denseores:block2",
 				"metadata": 7,
-                "weight": 5
+                "weight": 10
 			}
         ],
         "material": [
@@ -132,7 +122,7 @@
         "clusterSize": 10,
         "minHeight": 10,
         "maxHeight": 230,
-        "chunkChance": 30, 
+        "chunkChance": 100, 
         "retrogen": true,
         "biomeRestriction": "none",
         "biomes": [],
